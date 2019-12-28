@@ -1,0 +1,114 @@
+<div class="page" data-name="community">
+
+    <div class="toolbar tabbar toolbar-top">
+      <div class="toolbar-inner">
+        <a href="#tab-community-activity" class="tab-link tab-link-active" onclick='auditPage("Community Activity");'>Aktivity</a>
+        <a href="#tab-community-my" class="tab-link" onclick="updateLeaderboard()">Moje komunita</a>
+      </div>
+    </div>
+    <div class="tabs">
+      <div id="tab-community-activity" class="page-content tab tab-active photos-page-content">
+
+        <div class="card demo-facebook-card">
+          <div class="card-content" style="text-align: left;">
+            <div class="demo-facebook-date" style="padding: 1rem 0 0 1rem;">aktuálně<span class="badge color-orange" style="margin-left:10px;">moje komunita</span></div>
+            <p style="padding: 0 1rem 0 1rem;">Tvá komunita již sesbírala 580 atributů, což je víc jak 30% ze všech sesbíraných dat v naší aplikaci. Vy válíte!</p>
+          </div>
+          <div class="card-footer"><div><i id="community-coverage-icon3" class="material-icons md-only" style="color: #ff2d55;" onclick="addLikeCoverage3()">favorite_border</i><span id="community-coverage-likes3" style="padding-left:1rem;">4</span></div></div>
+        </div>
+
+        <div class="card demo-facebook-card">
+          <div class="card-content" style="text-align: left;">
+            <div class="demo-facebook-date" style="padding: 1rem 0 0 1rem;">18. listopad</div>
+            <p style="padding: 0 1rem 0 1rem;">Minulý týden bylo sesbíraných celkem 1054 nových atributů. Díky tomu máme v Praze zmapovaných již 15% chodníkových sítí.</p>
+          </div>
+          <div class="card-footer"><div><i id="community-coverage-icon2" class="material-icons md-only" style="color: #ff2d55;" onclick="addLikeCoverage2()">favorite_border</i><span id="community-coverage-likes2" style="padding-left:1rem;">242</span></div></div>
+        </div>
+
+        <div class="card demo-facebook-card">
+          <div class="card-content" style="text-align: left;">
+            <div class="demo-facebook-date" style="padding: 1rem 0 0 1rem;">18. listopad</div>
+            <p style="padding: 0 1rem 0 1rem;">Tento měsíc jsme naplánovali již 52 tras pro lidi se zrakovým postižením. Díky sesbíraným údajům z naší aplikace se ve městě pohybovali samostatně a zcela bezpečně.</p>
+          </div>
+          <div class="card-footer"><div><i id="community-routes-icon2" class="material-icons md-only" style="color: #ff2d55;" onclick="addLikeRoutes2()">favorite_border</i><span id="community-routes-likes2" style="padding-left:1rem;">321</span></div></div>
+        </div>
+
+        <div class="card demo-facebook-card">
+          <div class="card-content" style="text-align: left;">
+            <div class="demo-facebook-date" style="padding: 1rem 0 0 1rem;">11. listopad</div>
+            <p style="padding: 0 1rem 0 1rem;">V naší aplikaci bylo dosud sesbíraných celkem 542 atributů. V Praze máme zmapovaných již 5% chodníkových sítí.</p>
+          </div>
+          <div class="card-footer"><div><i id="community-coverage-icon" class="material-icons md-only" style="color: #ff2d55;" onclick="addLikeCoverage()">favorite_border</i><span id="community-coverage-likes" style="padding-left:1rem;">123</span></div></div>
+        </div>
+
+        <div class="card demo-facebook-card">
+          <div class="card-content" style="text-align: left;">
+            <div class="demo-facebook-date" style="padding: 1rem 0 0 1rem;">11.listopad</div>
+            <p style="padding: 0 1rem 0 1rem;">Tento měsíc jsme naplánovali již 23 tras pro lidi se zrakovým postižením. Díky sesbíraným údajům z naší aplikace se dostali bezpečně do cíle.</p>
+          </div>
+          <div class="card-footer"><div><i id="community-routes-icon" class="material-icons md-only" style="color: #ff2d55;" onclick="addLikeRoutes()">favorite_border</i><span id="community-routes-likes" style="padding-left:1rem;">224</span></div></div>
+        </div>
+
+      </div>
+
+      <div id="tab-community-my" class="page-content tab">
+       <div class="data-table">
+         <table>
+           <thead>
+             <tr>
+               <th class="icon-cell">Uživatel</th>
+               <th class="username-cell"></th>
+               <th class="numeric-cell">Počet sesbíraných atributů</th>
+             </tr>
+           </thead>
+           <tbody>
+             <tr id="table-row-1">
+              <td class="icon-cell"><img id="table-row-1-icon" class="avatar" src=""></td>
+              <td id="table-row-1-username" class="username-cell"></td>
+              <td id="table-row-1-points" class="numeric-cell"></td>
+             </tr>
+             <tr id="table-row-2">
+              <td class="icon-cell"><img id="table-row-2-icon" class="avatar" src=""></td>
+              <td id="table-row-2-username" class="username-cell"></td>
+              <td id="table-row-2-points" class="numeric-cell"></td>
+             </tr>
+             <tr id="table-row-3">
+              <td class="icon-cell"><img id="table-row-3-icon" class="avatar" src=""></td>
+              <td id="table-row-3-username" class="username-cell"></td>
+              <td id="table-row-3-points" class="numeric-cell"></td>
+             </tr>
+             <tr id="table-row-4">
+              <td class="icon-cell"><img id="table-row-4-icon" class="avatar" src=""></td>
+              <td id="table-row-4-username" class="username-cell"></td>
+              <td id="table-row-4-points" class="numeric-cell"></td>
+             </tr>
+             <tr id="table-row-5">
+              <td class="icon-cell"><img id="table-row-5-icon" class="avatar" src=""></td>
+              <td id="table-row-5-username" class="username-cell"></td>
+              <td id="table-row-5-points" class="numeric-cell"></td>
+             </tr>
+             <tr id="table-row-6">
+              <td class="icon-cell"><img id="table-row-6-icon" class="avatar" src=""></td>
+              <td id="table-row-6-username" class="username-cell"></td>
+              <td id="table-row-6-points" class="numeric-cell"></td>
+             </tr>
+             <tr id="table-row-7">
+              <td class="icon-cell"><img id="table-row-7-icon" class="avatar" src=""></td>
+              <td id="table-row-7-username" class="username-cell"></td>
+              <td id="table-row-7-points" class="numeric-cell"></td>
+             </tr>
+           </tbody>
+         </table>
+       </div>
+
+         <div class="fab fab-extended fab-center-bottom color-blue" style="width:60vw;">
+          <a href="#">
+            <i class="icon material-icons md-only">add</i>
+            <div class="fab-text">Přidat přátele</div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+</div>
