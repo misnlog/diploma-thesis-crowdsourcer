@@ -1,0 +1,358 @@
+/* iOS Cordova Tweak */
+.device-cordova.device-ios {
+  height: 100vh;
+}
+
+#mapid { 
+	height: 95vh;
+	width: 100vw;
+}
+
+#obstacle-mapid { 
+	height: 95vh;
+	width: 100vw;
+}
+
+
+.icon-menu-size { 
+	font-size: 50px;
+	color: gray;
+}
+
+/*.card-content {
+	height: 8vh;
+	width: 30vw;
+}*/
+
+
+#mapuj-button {
+	background: #2a63a2;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.white-icon {
+	color: #fff;
+}
+
+.gray-icon {
+	color: gray;
+}
+
+.white-text {
+	color: #fff;
+}
+
+.card {
+	text-align: center;
+}
+
+.card-footer {
+	text-align: center;
+}
+
+.circle-button {
+	border: none;
+	padding: 10px;
+	margin: 4px 40px;
+	border-radius: 50%;
+}
+
+#button-red-obstacle-1, #button-green-obstacle-1 {
+	width: 70px;
+	height: 70px;
+}
+
+.circle-button-icon {
+	font-size: 50px;
+	color: #fff;
+}
+
+.bottomDiv { 
+    position:absolute;                  
+    bottom:0;                          
+    left:0;                          
+}
+
+.obstacleIMG {
+	height: 60vh;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.obstacleDIV {
+	text-align: center;
+}
+
+.page-obstacle {
+    will-change: scroll-position;
+    /*overflow: auto;*/
+    -webkit-overflow-scrolling: touch;
+    box-sizing: border-box;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.block-obstacle {
+	margin: 0;
+}
+
+.obstacle-navi-avatar {
+    border-radius: var(--f7-message-avatar-border-radius);
+    position: relative;
+    background-size: cover;
+    align-self: flex-end;
+    flex-shrink: 0;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    padding: 0px;
+    margin: 10px;
+}
+
+.speech-bubble-right {
+	position: relative;
+	background: #22be21;
+	border-radius: .4em;
+}
+
+.speech-bubble-right:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	width: 0;
+	height: 0;
+	border: 17px solid transparent;
+	border-top-color: #22be21;
+	border-bottom: 0;
+	margin-left: -17px;
+	margin-bottom: -17px;
+}
+
+.speech-bubble-wrong {
+	position: relative;
+	background: #ff3b30;
+	border-radius: .4em;
+}
+
+.speech-bubble-wrong:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	width: 0;
+	height: 0;
+	border: 17px solid transparent;
+	border-top-color: #ff3b30;
+	border-bottom: 0;
+	margin-left: -17px;
+	margin-bottom: -17px;
+}
+
+.button-obstacle-continue {
+	position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+.block-obstacle-navi {
+	margin: 0;
+	height: 90vh;
+}
+
+.bubble-text-h1 { 
+	color: #fff;
+    padding: 5px 10px 0px 10px;
+}
+
+.bubble-text-h2 { 
+	color: #fff;
+    padding: 0px 10px 10px 10px;
+    font-size: large;
+}
+
+.game-gained-score {
+    font-size: 15em;
+    color: #007aff;
+}
+
+.game-score {
+    font-size: 3em;
+}
+
+.selectedMarker {
+border: 10px solid gold;
+}
+
+.data-card-col33 {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+label.label-yellow input[type=radio]:checked~.card {
+    background: rgba(255, 219, 73, 0.7);
+}
+
+label.label-yellow input[type=checkbox]:checked~.card {
+    background: rgba(255, 219, 73, 0.7);
+}
+
+.data-img-label {
+	font-size: 0.8rem;
+	color: gray;
+}
+
+.sheet-tab-link {
+	padding: 0 16px;
+}
+
+#sidewalk-width-div-meter, #sidewalk-width-div-creditcard, #sidewalk-width-div-feet, #sidewalk-slope-div, #sidewalk-slope-div-title {
+	display: none;
+}
+
+.card-footer-08rem {
+	font-size: 0.8rem;
+}
+
+.photosIMG {
+	height: 45vh;
+	display: inline-block;
+}
+
+.photosDIV {
+	text-align: center;
+	padding-top: var(--f7-navbar-height);
+}
+
+.photos-attributes-block {
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+
+.toolbar-inner-photos-modal {
+    border-top: 0.1rem gray solid;
+}
+
+.photo-item-content {
+    height: 2.7rem;
+}
+
+.list-photo-5 {
+    margin: 0;
+}
+
+.photos-page-content {
+    background-color: #f7f7f8;
+}
+
+.photos-block-title {
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+#obstacle-pin {
+    width: 100px;
+    height: 160px;
+    display: block;
+    content: ' ';
+    position: absolute;
+    top: 50%; left: 50%;
+    margin: -160px 0 0 -50px;
+    background: url('../img/obstacle_pin2.png');
+    background-size: 100px 160px;
+    pointer-events: none;
+    z-index: 10000;
+    visibility: hidden;
+}
+
+.button-white {
+	background-color: #fff;
+	width: fit-content;
+}
+
+.button-active {
+	background-color: #007AFF;
+	width: fit-content;
+}
+
+.avatar {
+	height: inherit;
+	border-radius: 50%;
+}
+
+.data-table td, .data-table th {
+	padding-left: 0;
+}
+
+.data-table td.icon-cell, .data-table th.icon-cell {
+	padding-left: var(--f7-table-cell-padding-left);
+	padding-right: 0;
+}
+
+.table-this-user {
+	background-color: rgba(255, 219, 73, 0.7);
+}
+
+.demo-card-header-pic .card-header {
+  height: 40vw;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+.demo-card-header-pic .card-content-padding .date{
+  color: #8e8e93;
+}
+
+.articles-card, .stories-card {
+	text-align: left;
+}
+
+.demo-facebook-card .card-header {
+  display: block;
+  padding: 10px;
+}
+.demo-facebook-card .demo-facebook-avatar {
+  float: left;
+}
+.demo-facebook-card .demo-facebook-name {
+  font-size: 14px;
+  font-weight: 500;
+}
+.demo-facebook-card .demo-facebook-date {
+  font-size: 13px;
+  color: #8e8e93;
+}
+.demo-facebook-card .card-footer {
+  background: #fafafa;
+}
+
+.demo-facebook-card .card-content img {
+  display: block;
+}
+.demo-facebook-card .card-content-padding {
+  padding: 15px 10px;
+}
+.demo-facebook-card .card-content-padding .likes {
+  color: #8e8e93;
+}
+
+.article-title {
+	background-color: rgb(0,0,0, 0.5); 
+	width: 100vw; 
+	padding-left: 1rem;
+	padding-bottom: 0.3rem;
+	padding-top: 0.3rem;
+	padding-right: 1rem;
+}
+
+.block-title {
+	white-space: inherit;
+}
+
+.notification-badge {
+    --f7-badge-size: 12px;
+}
+
+/* Your app custom styles here */

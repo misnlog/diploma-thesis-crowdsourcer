@@ -1,0 +1,17 @@
+server:
+  port: 8080
+spring:
+  jackson:
+    serialization:
+      INDENT_OUTPUT: true
+management:
+  endpoints:
+    web:
+     exposure:
+       include: "*"    
+  endpoint:
+    health:
+      show-details: always
+    
+    
+    
