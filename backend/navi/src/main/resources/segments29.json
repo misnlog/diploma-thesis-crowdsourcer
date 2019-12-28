@@ -1,0 +1,5153 @@
+{
+  "Addresses" : [ {
+    "Id" : "21728704",
+    "Shape" : {
+      "Latitude" : 50.0740518137241,
+      "Longitude" : 14.4144935890022
+    },
+    "Street" : "Trojanova",
+    "HouseNumber" : "4",
+    "LandRegistryNumber" : "354",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728712",
+    "Shape" : {
+      "Latitude" : 50.0739911275552,
+      "Longitude" : 14.414870838873
+    },
+    "Street" : "Gorazdova",
+    "HouseNumber" : "5",
+    "LandRegistryNumber" : "355",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728721",
+    "Shape" : {
+      "Latitude" : 50.07406042341,
+      "Longitude" : 14.4147627955828
+    },
+    "Street" : "Trojanova",
+    "HouseNumber" : "6",
+    "LandRegistryNumber" : "355",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728739",
+    "Shape" : {
+      "Latitude" : 50.0737714559151,
+      "Longitude" : 14.4148776469297
+    },
+    "Street" : "Gorazdova",
+    "HouseNumber" : "3",
+    "LandRegistryNumber" : "356",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728747",
+    "Shape" : {
+      "Latitude" : 50.0734769100433,
+      "Longitude" : 14.4148937053977
+    },
+    "Street" : "Gorazdova",
+    "HouseNumber" : "1",
+    "LandRegistryNumber" : "357",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728755",
+    "Shape" : {
+      "Latitude" : 50.0734070712229,
+      "Longitude" : 14.4147467539152
+    },
+    "Street" : "Palackého náměstí",
+    "HouseNumber" : "3",
+    "LandRegistryNumber" : "357",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728763",
+    "Shape" : {
+      "Latitude" : 50.0734032485205,
+      "Longitude" : 14.4145069875966
+    },
+    "Street" : "Palackého náměstí",
+    "HouseNumber" : "2",
+    "LandRegistryNumber" : "358",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728861",
+    "Shape" : {
+      "Latitude" : 50.0730337544488,
+      "Longitude" : 14.4153630710674
+    },
+    "Street" : "Palackého náměstí",
+    "HouseNumber" : "4",
+    "LandRegistryNumber" : "375",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728925",
+    "Shape" : {
+      "Latitude" : 50.0715621183113,
+      "Longitude" : 14.4147408473084
+    },
+    "Street" : "Dřevná",
+    "HouseNumber" : "4",
+    "LandRegistryNumber" : "381",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728933",
+    "Shape" : {
+      "Latitude" : 50.0715434820048,
+      "Longitude" : 14.4145049646588
+    },
+    "Street" : "Dřevná",
+    "HouseNumber" : "2",
+    "LandRegistryNumber" : "382",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728941",
+    "Shape" : {
+      "Latitude" : 50.0714503325234,
+      "Longitude" : 14.4144134909541
+    },
+    "Street" : "Rašínovo nábřeží",
+    "HouseNumber" : "60",
+    "LandRegistryNumber" : "382",
+    "City" : "Praha"
+  }, {
+    "Id" : "21728950",
+    "Shape" : {
+      "Latitude" : 50.0712902217159,
+      "Longitude" : 14.4144512725608
+    },
+    "Street" : "Rašínovo nábřeží",
+    "HouseNumber" : "58",
+    "LandRegistryNumber" : "383",
+    "City" : "Praha"
+  }, {
+    "Id" : "21732698",
+    "Shape" : {
+      "Latitude" : 50.0733964167553,
+      "Longitude" : 14.4142578524499
+    },
+    "Street" : "Palackého náměstí",
+    "HouseNumber" : "1",
+    "LandRegistryNumber" : "1571",
+    "City" : "Praha"
+  }, {
+    "Id" : "21732701",
+    "Shape" : {
+      "Latitude" : 50.0734825520343,
+      "Longitude" : 14.4141288605855
+    },
+    "Street" : "Rašínovo nábřeží",
+    "HouseNumber" : "62",
+    "LandRegistryNumber" : "1571",
+    "City" : "Praha"
+  }, {
+    "Id" : "21733295",
+    "Shape" : {
+      "Latitude" : 50.0739276860304,
+      "Longitude" : 14.4141058192039
+    },
+    "Street" : "Rašínovo nábřeží",
+    "HouseNumber" : "66",
+    "LandRegistryNumber" : "1696",
+    "City" : "Praha"
+  }, {
+    "Id" : "21733309",
+    "Shape" : {
+      "Latitude" : 50.0740434977908,
+      "Longitude" : 14.4142277041146
+    },
+    "Street" : "Trojanova",
+    "HouseNumber" : "2",
+    "LandRegistryNumber" : "1696",
+    "City" : "Praha"
+  }, {
+    "Id" : "21733911",
+    "Shape" : {
+      "Latitude" : 50.0737103451812,
+      "Longitude" : 14.414115375568
+    },
+    "Street" : "Rašínovo nábřeží",
+    "HouseNumber" : "64",
+    "LandRegistryNumber" : "1781",
+    "City" : "Praha"
+  }, {
+    "Id" : "21735824",
+    "Shape" : {
+      "Latitude" : 50.0743125263471,
+      "Longitude" : 14.4140855248307
+    },
+    "Street" : "Rašínovo nábřeží",
+    "HouseNumber" : "68",
+    "LandRegistryNumber" : "1954",
+    "City" : "Praha"
+  }, {
+    "Id" : "21735832",
+    "Shape" : {
+      "Latitude" : 50.0742286964572,
+      "Longitude" : 14.4142016155281
+    },
+    "Street" : "Trojanova",
+    "HouseNumber" : "1",
+    "LandRegistryNumber" : "1954",
+    "City" : "Praha"
+  }, {
+    "Id" : "21736006",
+    "Shape" : {
+      "Latitude" : 50.073754945033,
+      "Longitude" : 14.415203417781
+    },
+    "Street" : "Gorazdova",
+    "HouseNumber" : "6",
+    "LandRegistryNumber" : "1972",
+    "City" : "Praha"
+  }, {
+    "Id" : "21736049",
+    "Shape" : {
+      "Latitude" : 50.07450153141,
+      "Longitude" : 14.4140737108272
+    },
+    "Street" : "Rašínovo nábřeží",
+    "HouseNumber" : "70",
+    "LandRegistryNumber" : "1980",
+    "City" : "Praha"
+  }, {
+    "Id" : "21736111",
+    "Shape" : {
+      "Latitude" : 50.0742427597129,
+      "Longitude" : 14.4144831947068
+    },
+    "Street" : "Trojanova",
+    "HouseNumber" : "3",
+    "LandRegistryNumber" : "1992",
+    "City" : "Praha"
+  }, {
+    "Id" : "21736138",
+    "Shape" : {
+      "Latitude" : 50.074252624051,
+      "Longitude" : 14.4147419801241
+    },
+    "Street" : "Trojanova",
+    "HouseNumber" : "5",
+    "LandRegistryNumber" : "1993",
+    "City" : "Praha"
+  }, {
+    "Id" : "22074929",
+    "Shape" : {
+      "Latitude" : 50.0719452183521,
+      "Longitude" : 14.4104108368461
+    },
+    "Street" : "Hořejší nábřeží",
+    "HouseNumber" : "27",
+    "LandRegistryNumber" : "63",
+    "City" : "Praha"
+  }, {
+    "Id" : "22074937",
+    "Shape" : {
+      "Latitude" : 50.0720041194657,
+      "Longitude" : 14.4102204040976
+    },
+    "Street" : "Na bělidle",
+    "HouseNumber" : "1",
+    "LandRegistryNumber" : "63",
+    "City" : "Praha"
+  }, {
+    "Id" : "22074945",
+    "Shape" : {
+      "Latitude" : 50.0719615419417,
+      "Longitude" : 14.4096327234808
+    },
+    "Street" : "Na bělidle",
+    "HouseNumber" : "3",
+    "LandRegistryNumber" : "64",
+    "City" : "Praha"
+  }, {
+    "Id" : "22074953",
+    "Shape" : {
+      "Latitude" : 50.0718709075641,
+      "Longitude" : 14.4095369116772
+    },
+    "Street" : "Na Celné",
+    "HouseNumber" : "14",
+    "LandRegistryNumber" : "64",
+    "City" : "Praha"
+  }, {
+    "Id" : "22075275",
+    "Shape" : {
+      "Latitude" : 50.0737580993124,
+      "Longitude" : 14.4094048215252
+    },
+    "Street" : "Janáčkovo nábřeží",
+    "HouseNumber" : "9",
+    "LandRegistryNumber" : "84",
+    "City" : "Praha"
+  }, {
+    "Id" : "22075283",
+    "Shape" : {
+      "Latitude" : 50.0738150573429,
+      "Longitude" : 14.4092487830165
+    },
+    "Street" : "Lesnická",
+    "HouseNumber" : "1",
+    "LandRegistryNumber" : "84",
+    "City" : "Praha"
+  }, {
+    "Id" : "22075291",
+    "Shape" : {
+      "Latitude" : 50.0731531880577,
+      "Longitude" : 14.4096833745315
+    },
+    "Street" : "Janáčkovo nábřeží",
+    "HouseNumber" : "5",
+    "LandRegistryNumber" : "85",
+    "City" : "Praha"
+  }, {
+    "Id" : "22075305",
+    "Shape" : {
+      "Latitude" : 50.0732260602902,
+      "Longitude" : 14.4095450851988
+    },
+    "Street" : "Pecháčkova",
+    "HouseNumber" : "1",
+    "LandRegistryNumber" : "85",
+    "City" : "Praha"
+  }, {
+    "Id" : "22075313",
+    "Shape" : {
+      "Latitude" : 50.0735120883346,
+      "Longitude" : 14.4095322275781
+    },
+    "Street" : "Janáčkovo nábřeží",
+    "HouseNumber" : "7",
+    "LandRegistryNumber" : "86",
+    "City" : "Praha"
+  }, {
+    "Id" : "22075321",
+    "Shape" : {
+      "Latitude" : 50.0734154248276,
+      "Longitude" : 14.4094369983879
+    },
+    "Street" : "Pecháčkova",
+    "HouseNumber" : "2",
+    "LandRegistryNumber" : "86",
+    "City" : "Praha"
+  }, {
+    "Id" : "22077162",
+    "Shape" : {
+      "Latitude" : 50.0718959994841,
+      "Longitude" : 14.4090522156617
+    },
+    "Street" : "Na bělidle",
+    "HouseNumber" : "5",
+    "LandRegistryNumber" : "272",
+    "City" : "Praha"
+  }, {
+    "Id" : "22077171",
+    "Shape" : {
+      "Latitude" : 50.0718601114738,
+      "Longitude" : 14.4091725726086
+    },
+    "Street" : "Na Celné",
+    "HouseNumber" : "13",
+    "LandRegistryNumber" : "272",
+    "City" : "Praha"
+  }, {
+    "Id" : "22078983",
+    "Shape" : {
+      "Latitude" : 50.0715105863329,
+      "Longitude" : 14.4093741690769
+    },
+    "Street" : "Na Celné",
+    "HouseNumber" : "9",
+    "LandRegistryNumber" : "439",
+    "City" : "Praha"
+  }, {
+    "Id" : "22081071",
+    "Shape" : {
+      "Latitude" : 50.0709515236354,
+      "Longitude" : 14.4103223126588
+    },
+    "Street" : "Hořejší nábřeží",
+    "HouseNumber" : "15",
+    "LandRegistryNumber" : "627",
+    "City" : "Praha"
+  }, {
+    "Id" : "22081097",
+    "Shape" : {
+      "Latitude" : 50.0710776387349,
+      "Longitude" : 14.4103494695682
+    },
+    "Street" : "Hořejší nábřeží",
+    "HouseNumber" : "17",
+    "LandRegistryNumber" : "628",
+    "City" : "Praha"
+  }, {
+    "Id" : "22081101",
+    "Shape" : {
+      "Latitude" : 50.0712047785511,
+      "Longitude" : 14.4103584981215
+    },
+    "Street" : "Hořejší nábřeží",
+    "HouseNumber" : "19",
+    "LandRegistryNumber" : "629",
+    "City" : "Praha"
+  }, {
+    "Id" : "22081674",
+    "Shape" : {
+      "Latitude" : 50.0712299941156,
+      "Longitude" : 14.4096622575504
+    },
+    "Street" : "Na Celné",
+    "HouseNumber" : "6",
+    "LandRegistryNumber" : "712",
+    "City" : "Praha"
+  }, {
+    "Id" : "22081933",
+    "Shape" : {
+      "Latitude" : 50.0714748371697,
+      "Longitude" : 14.4096056172735
+    },
+    "Street" : "Na Celné",
+    "HouseNumber" : "10",
+    "LandRegistryNumber" : "730",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082166",
+    "Shape" : {
+      "Latitude" : 50.072600541251,
+      "Longitude" : 14.4086331697129
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "12",
+    "LandRegistryNumber" : "751",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082182",
+    "Shape" : {
+      "Latitude" : 50.0726204455224,
+      "Longitude" : 14.4088381847013
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "10",
+    "LandRegistryNumber" : "752",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082352",
+    "Shape" : {
+      "Latitude" : 50.0725008641207,
+      "Longitude" : 14.4102768154354
+    },
+    "Street" : "Hořejší nábřeží",
+    "HouseNumber" : "33",
+    "LandRegistryNumber" : "766",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082361",
+    "Shape" : {
+      "Latitude" : 50.0725623143414,
+      "Longitude" : 14.4101714344556
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "1",
+    "LandRegistryNumber" : "766",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082379",
+    "Shape" : {
+      "Latitude" : 50.0724025019912,
+      "Longitude" : 14.41030266411
+    },
+    "Street" : "Hořejší nábřeží",
+    "HouseNumber" : "31",
+    "LandRegistryNumber" : "767",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082581",
+    "Shape" : {
+      "Latitude" : 50.0717177722325,
+      "Longitude" : 14.4103995864443
+    },
+    "Street" : "Hořejší nábřeží",
+    "HouseNumber" : "25",
+    "LandRegistryNumber" : "784",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082590",
+    "Shape" : {
+      "Latitude" : 50.0715304751596,
+      "Longitude" : 14.4103825630348
+    },
+    "Street" : "Hořejší nábřeží",
+    "HouseNumber" : "23",
+    "LandRegistryNumber" : "785",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082603",
+    "Shape" : {
+      "Latitude" : 50.0713601401552,
+      "Longitude" : 14.4103736136669
+    },
+    "Street" : "Hořejší nábřeží",
+    "HouseNumber" : "21",
+    "LandRegistryNumber" : "786",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082751",
+    "Shape" : {
+      "Latitude" : 50.072420247331,
+      "Longitude" : 14.4086408834866
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "13",
+    "LandRegistryNumber" : "799",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082778",
+    "Shape" : {
+      "Latitude" : 50.0724415541622,
+      "Longitude" : 14.4088565970989
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "11",
+    "LandRegistryNumber" : "800",
+    "City" : "Praha"
+  }, {
+    "Id" : "22082930",
+    "Shape" : {
+      "Latitude" : 50.0720531359518,
+      "Longitude" : 14.4089143637527
+    },
+    "Street" : "Na bělidle",
+    "HouseNumber" : "12",
+    "LandRegistryNumber" : "813",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083090",
+    "Shape" : {
+      "Latitude" : 50.0713645278639,
+      "Longitude" : 14.4096297936141
+    },
+    "Street" : "Na Celné",
+    "HouseNumber" : "8",
+    "LandRegistryNumber" : "826",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083120",
+    "Shape" : {
+      "Latitude" : 50.0725412224246,
+      "Longitude" : 14.4099212650961
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "3",
+    "LandRegistryNumber" : "829",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083138",
+    "Shape" : {
+      "Latitude" : 50.0722397785965,
+      "Longitude" : 14.4103427118624
+    },
+    "Street" : "Hořejší nábřeží",
+    "HouseNumber" : "29",
+    "LandRegistryNumber" : "830",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083146",
+    "Shape" : {
+      "Latitude" : 50.0721921468533,
+      "Longitude" : 14.4102436166274
+    },
+    "Street" : "Na bělidle",
+    "HouseNumber" : "2",
+    "LandRegistryNumber" : "830",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083278",
+    "Shape" : {
+      "Latitude" : 50.0724636336794,
+      "Longitude" : 14.4091127594802
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "9",
+    "LandRegistryNumber" : "841",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083286",
+    "Shape" : {
+      "Latitude" : 50.072690260515,
+      "Longitude" : 14.4095774230941
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "4",
+    "LandRegistryNumber" : "842",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083294",
+    "Shape" : {
+      "Latitude" : 50.0727760248559,
+      "Longitude" : 14.4098987858195
+    },
+    "Street" : "Janáčkovo nábřeží",
+    "HouseNumber" : "1",
+    "LandRegistryNumber" : "843",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083308",
+    "Shape" : {
+      "Latitude" : 50.0727205263915,
+      "Longitude" : 14.4098061685027
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "2",
+    "LandRegistryNumber" : "843",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083766",
+    "Shape" : {
+      "Latitude" : 50.0724895928662,
+      "Longitude" : 14.4093881164678
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "7",
+    "LandRegistryNumber" : "881",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083774",
+    "Shape" : {
+      "Latitude" : 50.0725167021304,
+      "Longitude" : 14.4096733809461
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "5",
+    "LandRegistryNumber" : "882",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083782",
+    "Shape" : {
+      "Latitude" : 50.0726453959064,
+      "Longitude" : 14.4091031819115
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "8",
+    "LandRegistryNumber" : "883",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083791",
+    "Shape" : {
+      "Latitude" : 50.0726670176646,
+      "Longitude" : 14.4093552127146
+    },
+    "Street" : "Lidická",
+    "HouseNumber" : "6",
+    "LandRegistryNumber" : "884",
+    "City" : "Praha"
+  }, {
+    "Id" : "22083804",
+    "Shape" : {
+      "Latitude" : 50.0730021473025,
+      "Longitude" : 14.4097917175545
+    },
+    "Street" : "Janáčkovo nábřeží",
+    "HouseNumber" : "3",
+    "LandRegistryNumber" : "885",
+    "City" : "Praha"
+  }, {
+    "Id" : "22084681",
+    "Shape" : {
+      "Latitude" : 50.0721601840051,
+      "Longitude" : 14.4100090319961
+    },
+    "Street" : "Na bělidle",
+    "HouseNumber" : "4",
+    "LandRegistryNumber" : "961",
+    "City" : "Praha"
+  }, {
+    "Id" : "22084827",
+    "Shape" : {
+      "Latitude" : 50.0720825459648,
+      "Longitude" : 14.4092081583935
+    },
+    "Street" : "Na bělidle",
+    "HouseNumber" : "10",
+    "LandRegistryNumber" : "976",
+    "City" : "Praha"
+  }, {
+    "Id" : "22085033",
+    "Shape" : {
+      "Latitude" : 50.0721090480379,
+      "Longitude" : 14.4094886147335
+    },
+    "Street" : "Na bělidle",
+    "HouseNumber" : "8",
+    "LandRegistryNumber" : "995",
+    "City" : "Praha"
+  }, {
+    "Id" : "22085041",
+    "Shape" : {
+      "Latitude" : 50.0721364314666,
+      "Longitude" : 14.4097636648392
+    },
+    "Street" : "Na bělidle",
+    "HouseNumber" : "6",
+    "LandRegistryNumber" : "996",
+    "City" : "Praha"
+  }, {
+    "Id" : "22085424",
+    "Shape" : {
+      "Latitude" : 50.0713525681086,
+      "Longitude" : 14.4094181477274
+    },
+    "Street" : "Na Celné",
+    "HouseNumber" : "7",
+    "LandRegistryNumber" : "1034",
+    "City" : "Praha"
+  }, {
+    "Id" : "22087443",
+    "Shape" : {
+      "Latitude" : 50.0741066952084,
+      "Longitude" : 14.4092193507274
+    },
+    "Street" : "Janáčkovo nábřeží",
+    "HouseNumber" : "11",
+    "LandRegistryNumber" : "1211",
+    "City" : "Praha"
+  }, {
+    "Id" : "22087451",
+    "Shape" : {
+      "Latitude" : 50.0740212091671,
+      "Longitude" : 14.4091437280953
+    },
+    "Street" : "Lesnická",
+    "HouseNumber" : "2",
+    "LandRegistryNumber" : "1211",
+    "City" : "Praha"
+  }, {
+    "Id" : "22087621",
+    "Shape" : {
+      "Latitude" : 50.0738021599019,
+      "Longitude" : 14.4090081348676
+    },
+    "Street" : "Lesnická",
+    "HouseNumber" : "3",
+    "LandRegistryNumber" : "1225",
+    "City" : "Praha"
+  }, {
+    "Id" : "22087818",
+    "Shape" : {
+      "Latitude" : 50.0733778617154,
+      "Longitude" : 14.4091361974975
+    },
+    "Street" : "Pecháčkova",
+    "HouseNumber" : "4",
+    "LandRegistryNumber" : "1242",
+    "City" : "Praha"
+  }, {
+    "Id" : "22087834",
+    "Shape" : {
+      "Latitude" : 50.0731599855691,
+      "Longitude" : 14.4087456670983
+    },
+    "Street" : "Pecháčkova",
+    "HouseNumber" : "7",
+    "LandRegistryNumber" : "1244",
+    "City" : "Praha"
+  }, {
+    "Id" : "22087842",
+    "Shape" : {
+      "Latitude" : 50.0733366823946,
+      "Longitude" : 14.4086462120909
+    },
+    "Street" : "Pecháčkova",
+    "HouseNumber" : "8",
+    "LandRegistryNumber" : "1245",
+    "City" : "Praha"
+  }, {
+    "Id" : "22088211",
+    "Shape" : {
+      "Latitude" : 50.0731795202902,
+      "Longitude" : 14.4089905321308
+    },
+    "Street" : "Pecháčkova",
+    "HouseNumber" : "5",
+    "LandRegistryNumber" : "1273",
+    "City" : "Praha"
+  }, {
+    "Id" : "22088229",
+    "Shape" : {
+      "Latitude" : 50.073201732136,
+      "Longitude" : 14.409241029177
+    },
+    "Street" : "Pecháčkova",
+    "HouseNumber" : "3",
+    "LandRegistryNumber" : "1274",
+    "City" : "Praha"
+  }, {
+    "Id" : "22088377",
+    "Shape" : {
+      "Latitude" : 50.0733562034579,
+      "Longitude" : 14.4088755683366
+    },
+    "Street" : "Pecháčkova",
+    "HouseNumber" : "6",
+    "LandRegistryNumber" : "1288",
+    "City" : "Praha"
+  }, {
+    "Id" : "22089063",
+    "Shape" : {
+      "Latitude" : 50.0716467955406,
+      "Longitude" : 14.4095683854329
+    },
+    "Street" : "Na Celné",
+    "HouseNumber" : "12",
+    "LandRegistryNumber" : "1361",
+    "City" : "Praha"
+  }, {
+    "Id" : "22089322",
+    "Shape" : {
+      "Latitude" : 50.0716663338011,
+      "Longitude" : 14.4093404065071
+    },
+    "Street" : "Na Celné",
+    "HouseNumber" : "11",
+    "LandRegistryNumber" : "1391",
+    "City" : "Praha"
+  }, {
+    "Id" : "22718451",
+    "Shape" : {
+      "Latitude" : 50.0734138714175,
+      "Longitude" : 14.4153017730627
+    },
+    "Street" : "Na Moráni",
+    "HouseNumber" : "3",
+    "LandRegistryNumber" : "360",
+    "City" : "Praha"
+  }, {
+    "Id" : "22724192",
+    "Shape" : {
+      "Latitude" : 50.0734749663364,
+      "Longitude" : 14.4152404724955
+    },
+    "Street" : "Gorazdova",
+    "HouseNumber" : "2",
+    "LandRegistryNumber" : "360",
+    "City" : "Praha"
+  }, {
+    "Id" : "22736361",
+    "Shape" : {
+      "Latitude" : 50.0740795436324,
+      "Longitude" : 14.413672816141
+    },
+    "Street" : "Rašínovo nábřeží",
+    "HouseNumber" : "1",
+    "LandRegistryNumber" : "2084",
+    "City" : "Praha"
+  } ],
+  "AddressEntryPoints" : [ {
+    "Id" : "21728704",
+    "DistanceFromFirstPoint" : 31,
+    "RoadId" : "3541372",
+    "DistanceFromAddress" : 9,
+    "Shape" : {
+      "Latitude" : 50.0740823783524,
+      "Longitude" : 14.4144865965889
+    }
+  }, {
+    "Id" : "21728712",
+    "DistanceFromFirstPoint" : 12,
+    "RoadId" : "3541479",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.0739929973064,
+      "Longitude" : 14.4149176748358
+    }
+  }, {
+    "Id" : "21728721",
+    "DistanceFromFirstPoint" : 50,
+    "RoadId" : "3541372",
+    "DistanceFromAddress" : 3,
+    "Shape" : {
+      "Latitude" : 50.0740928692845,
+      "Longitude" : 14.4147622221834
+    }
+  }, {
+    "Id" : "21728739",
+    "DistanceFromFirstPoint" : 35,
+    "RoadId" : "3541479",
+    "DistanceFromAddress" : 9,
+    "Shape" : {
+      "Latitude" : 50.0737826151283,
+      "Longitude" : 14.4149258261402
+    }
+  }, {
+    "Id" : "21728747",
+    "DistanceFromFirstPoint" : 69,
+    "RoadId" : "3541479",
+    "DistanceFromAddress" : 3,
+    "Shape" : {
+      "Latitude" : 50.0734778414343,
+      "Longitude" : 14.4149376334867
+    }
+  }, {
+    "Id" : "21728755",
+    "DistanceFromFirstPoint" : 17,
+    "RoadId" : "3541478",
+    "DistanceFromAddress" : 6,
+    "Shape" : {
+      "Latitude" : 50.0733606499929,
+      "Longitude" : 14.4147496715353
+    }
+  }, {
+    "Id" : "21728763",
+    "DistanceFromFirstPoint" : 24,
+    "RoadId" : "3541477",
+    "DistanceFromAddress" : 13,
+    "Shape" : {
+      "Latitude" : 50.0733608281894,
+      "Longitude" : 14.4145122731852
+    }
+  }, {
+    "Id" : "21728861",
+    "DistanceFromFirstPoint" : 17,
+    "RoadId" : "2567374",
+    "DistanceFromAddress" : 17,
+    "Shape" : {
+      "Latitude" : 50.0730286834211,
+      "Longitude" : 14.4151275690351
+    }
+  }, {
+    "Id" : "21728909",
+    "DistanceFromFirstPoint" : 33,
+    "RoadId" : "1658237",
+    "DistanceFromAddress" : 9,
+    "Shape" : {
+      "Latitude" : 50.0716599318092,
+      "Longitude" : 14.4149427120516
+    }
+  }, {
+    "Id" : "21728925",
+    "DistanceFromFirstPoint" : 18,
+    "RoadId" : "1658237",
+    "DistanceFromAddress" : 15,
+    "Shape" : {
+      "Latitude" : 50.07164256108,
+      "Longitude" : 14.4147242995413
+    }
+  }, {
+    "Id" : "21728933",
+    "DistanceFromFirstPoint" : 0,
+    "RoadId" : "1658237",
+    "DistanceFromAddress" : 9,
+    "Shape" : {
+      "Latitude" : 50.0716235317599,
+      "Longitude" : 14.4144850372005
+    }
+  }, {
+    "Id" : "21728941",
+    "DistanceFromFirstPoint" : 19,
+    "RoadId" : "282529",
+    "DistanceFromAddress" : 11,
+    "Shape" : {
+      "Latitude" : 50.0714338958517,
+      "Longitude" : 14.4142535650464
+    }
+  }, {
+    "Id" : "21728950",
+    "DistanceFromFirstPoint" : 36,
+    "RoadId" : "282529",
+    "DistanceFromAddress" : 19,
+    "Shape" : {
+      "Latitude" : 50.0712798549523,
+      "Longitude" : 14.4142843302821
+    }
+  }, {
+    "Id" : "21728968",
+    "DistanceFromFirstPoint" : 54,
+    "RoadId" : "282529",
+    "DistanceFromAddress" : 19,
+    "Shape" : {
+      "Latitude" : 50.0711241470893,
+      "Longitude" : 14.4143154265904
+    }
+  }, {
+    "Id" : "21732698",
+    "DistanceFromFirstPoint" : 6,
+    "RoadId" : "3541477",
+    "DistanceFromAddress" : 5,
+    "Shape" : {
+      "Latitude" : 50.0733493052541,
+      "Longitude" : 14.4142646666108
+    }
+  }, {
+    "Id" : "21732701",
+    "DistanceFromFirstPoint" : 65,
+    "RoadId" : "3541476",
+    "DistanceFromAddress" : 2,
+    "Shape" : {
+      "Latitude" : 50.0734812595511,
+      "Longitude" : 14.4140932017173
+    }
+  }, {
+    "Id" : "21733295",
+    "DistanceFromFirstPoint" : 16,
+    "RoadId" : "3541476",
+    "DistanceFromAddress" : 3,
+    "Shape" : {
+      "Latitude" : 50.073923792043,
+      "Longitude" : 14.4140670331061
+    }
+  }, {
+    "Id" : "21733309",
+    "DistanceFromFirstPoint" : 12,
+    "RoadId" : "3541372",
+    "DistanceFromAddress" : 3,
+    "Shape" : {
+      "Latitude" : 50.0740726349169,
+      "Longitude" : 14.4142306165073
+    }
+  }, {
+    "Id" : "21733911",
+    "DistanceFromFirstPoint" : 38,
+    "RoadId" : "3541476",
+    "DistanceFromAddress" : 9,
+    "Shape" : {
+      "Latitude" : 50.0737225817311,
+      "Longitude" : 14.4140789314214
+    }
+  }, {
+    "Id" : "21735824",
+    "DistanceFromFirstPoint" : 141,
+    "RoadId" : "3541311",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.0743126549844,
+      "Longitude" : 14.4140385062972
+    }
+  }, {
+    "Id" : "21735832",
+    "DistanceFromFirstPoint" : 12,
+    "RoadId" : "3541312",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.0742004398798,
+      "Longitude" : 14.4142099701795
+    }
+  }, {
+    "Id" : "21736006",
+    "DistanceFromFirstPoint" : 10,
+    "RoadId" : "3541490",
+    "DistanceFromAddress" : 11,
+    "Shape" : {
+      "Latitude" : 50.073763816576,
+      "Longitude" : 14.4151620684677
+    }
+  }, {
+    "Id" : "21736049",
+    "DistanceFromFirstPoint" : 118,
+    "RoadId" : "3541311",
+    "DistanceFromAddress" : 11,
+    "Shape" : {
+      "Latitude" : 50.0745182066334,
+      "Longitude" : 14.4140273893675
+    }
+  }, {
+    "Id" : "21736111",
+    "DistanceFromFirstPoint" : 31,
+    "RoadId" : "3541312",
+    "DistanceFromAddress" : 11,
+    "Shape" : {
+      "Latitude" : 50.0742107144101,
+      "Longitude" : 14.414481805548
+    }
+  }, {
+    "Id" : "21736138",
+    "DistanceFromFirstPoint" : 50,
+    "RoadId" : "3541312",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.0742205330266,
+      "Longitude" : 14.4147415905699
+    }
+  }, {
+    "Id" : "22074929",
+    "DistanceFromFirstPoint" : 13,
+    "RoadId" : "3543666",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.0719654034912,
+      "Longitude" : 14.4104499503433
+    }
+  }, {
+    "Id" : "22074945",
+    "DistanceFromFirstPoint" : 72,
+    "RoadId" : "3542138",
+    "DistanceFromAddress" : 15,
+    "Shape" : {
+      "Latitude" : 50.0720953781764,
+      "Longitude" : 14.4095974186532
+    }
+  }, {
+    "Id" : "22075275",
+    "DistanceFromFirstPoint" : 45,
+    "RoadId" : "3542123",
+    "DistanceFromAddress" : 3,
+    "Shape" : {
+      "Latitude" : 50.0737708149225,
+      "Longitude" : 14.4094422958012
+    }
+  }, {
+    "Id" : "22075283",
+    "DistanceFromFirstPoint" : 11,
+    "RoadId" : "3542124",
+    "DistanceFromAddress" : 5,
+    "Shape" : {
+      "Latitude" : 50.0738559777041,
+      "Longitude" : 14.4092360574143
+    }
+  }, {
+    "Id" : "22075291",
+    "DistanceFromFirstPoint" : 53,
+    "RoadId" : "3542118",
+    "DistanceFromAddress" : 5,
+    "Shape" : {
+      "Latitude" : 50.0731650311551,
+      "Longitude" : 14.409745628159
+    }
+  }, {
+    "Id" : "22075305",
+    "DistanceFromFirstPoint" : 88,
+    "RoadId" : "3542121",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.0732621508694,
+      "Longitude" : 14.4095353851481
+    }
+  }, {
+    "Id" : "22075313",
+    "DistanceFromFirstPoint" : 15,
+    "RoadId" : "3542123",
+    "DistanceFromAddress" : 3,
+    "Shape" : {
+      "Latitude" : 50.0735180476934,
+      "Longitude" : 14.4095720462909
+    }
+  }, {
+    "Id" : "22075321",
+    "DistanceFromFirstPoint" : 84,
+    "RoadId" : "3542122",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.073374496515,
+      "Longitude" : 14.4094403092501
+    }
+  }, {
+    "Id" : "22077162",
+    "DistanceFromFirstPoint" : 30,
+    "RoadId" : "3542138",
+    "DistanceFromAddress" : 16,
+    "Shape" : {
+      "Latitude" : 50.0720362845201,
+      "Longitude" : 14.4090177427449
+    }
+  }, {
+    "Id" : "22082166",
+    "DistanceFromFirstPoint" : 98,
+    "RoadId" : "3542119",
+    "DistanceFromAddress" : 3,
+    "Shape" : {
+      "Latitude" : 50.072581420858,
+      "Longitude" : 14.4086382290253
+    }
+  }, {
+    "Id" : "22082182",
+    "DistanceFromFirstPoint" : 82,
+    "RoadId" : "3542119",
+    "DistanceFromAddress" : 8,
+    "Shape" : {
+      "Latitude" : 50.0726027259706,
+      "Longitude" : 14.4088494818047
+    }
+  }, {
+    "Id" : "22082352",
+    "DistanceFromFirstPoint" : 37,
+    "RoadId" : "3542139",
+    "DistanceFromAddress" : 3,
+    "Shape" : {
+      "Latitude" : 50.0725096915837,
+      "Longitude" : 14.4103182236026
+    }
+  }, {
+    "Id" : "22082361",
+    "DistanceFromFirstPoint" : 26,
+    "RoadId" : "3542140",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.0725927909777,
+      "Longitude" : 14.4101566527729
+    }
+  }, {
+    "Id" : "22082379",
+    "DistanceFromFirstPoint" : 25,
+    "RoadId" : "3542139",
+    "DistanceFromAddress" : 8,
+    "Shape" : {
+      "Latitude" : 50.0723979681482,
+      "Longitude" : 14.4103460436745
+    }
+  }, {
+    "Id" : "22082751",
+    "DistanceFromFirstPoint" : 136,
+    "RoadId" : "3542140",
+    "DistanceFromAddress" : 1,
+    "Shape" : {
+      "Latitude" : 50.0724306977969,
+      "Longitude" : 14.4086413157778
+    }
+  }, {
+    "Id" : "22082778",
+    "DistanceFromFirstPoint" : 119,
+    "RoadId" : "3542140",
+    "DistanceFromAddress" : 6,
+    "Shape" : {
+      "Latitude" : 50.0724555436381,
+      "Longitude" : 14.4088735722923
+    }
+  }, {
+    "Id" : "22082930",
+    "DistanceFromFirstPoint" : 28,
+    "RoadId" : "3542138",
+    "DistanceFromAddress" : 9,
+    "Shape" : {
+      "Latitude" : 50.0720330542554,
+      "Longitude" : 14.4089860532703
+    }
+  }, {
+    "Id" : "22083120",
+    "DistanceFromFirstPoint" : 44,
+    "RoadId" : "3542140",
+    "DistanceFromAddress" : 6,
+    "Shape" : {
+      "Latitude" : 50.072566125978,
+      "Longitude" : 14.40990737018
+    }
+  }, {
+    "Id" : "22083138",
+    "DistanceFromFirstPoint" : 7,
+    "RoadId" : "3542139",
+    "DistanceFromAddress" : 3,
+    "Shape" : {
+      "Latitude" : 50.0722432236962,
+      "Longitude" : 14.4103845780482
+    }
+  }, {
+    "Id" : "22083146",
+    "DistanceFromFirstPoint" : 120,
+    "RoadId" : "3542138",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.0721620394607,
+      "Longitude" : 14.4102513639931
+    }
+  }, {
+    "Id" : "22083278",
+    "DistanceFromFirstPoint" : 101,
+    "RoadId" : "3542140",
+    "DistanceFromAddress" : 6,
+    "Shape" : {
+      "Latitude" : 50.0724823941358,
+      "Longitude" : 14.409124582914
+    }
+  }, {
+    "Id" : "22083286",
+    "DistanceFromFirstPoint" : 30,
+    "RoadId" : "3542119",
+    "DistanceFromAddress" : 8,
+    "Shape" : {
+      "Latitude" : 50.0726755780366,
+      "Longitude" : 14.4095718847593
+    }
+  }, {
+    "Id" : "22083294",
+    "DistanceFromFirstPoint" : 9,
+    "RoadId" : "3542118",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.0727913692746,
+      "Longitude" : 14.4099444443038
+    }
+  }, {
+    "Id" : "22083308",
+    "DistanceFromFirstPoint" : 12,
+    "RoadId" : "3542119",
+    "DistanceFromAddress" : 2,
+    "Shape" : {
+      "Latitude" : 50.0726997353382,
+      "Longitude" : 14.4098114354844
+    }
+  }, {
+    "Id" : "22083740",
+    "DistanceFromFirstPoint" : 13,
+    "RoadId" : "3542138",
+    "DistanceFromAddress" : 15,
+    "Shape" : {
+      "Latitude" : 50.0720123763647,
+      "Longitude" : 14.4087832243832
+    }
+  }, {
+    "Id" : "22083766",
+    "DistanceFromFirstPoint" : 82,
+    "RoadId" : "3542140",
+    "DistanceFromAddress" : 6,
+    "Shape" : {
+      "Latitude" : 50.0725098270358,
+      "Longitude" : 14.4093810421827
+    }
+  }, {
+    "Id" : "22083774",
+    "DistanceFromFirstPoint" : 61,
+    "RoadId" : "3542140",
+    "DistanceFromAddress" : 6,
+    "Shape" : {
+      "Latitude" : 50.072541681615,
+      "Longitude" : 14.4096788290351
+    }
+  }, {
+    "Id" : "22083782",
+    "DistanceFromFirstPoint" : 66,
+    "RoadId" : "3542119",
+    "DistanceFromAddress" : 12,
+    "Shape" : {
+      "Latitude" : 50.0726256203542,
+      "Longitude" : 14.4090764920818
+    }
+  }, {
+    "Id" : "22083791",
+    "DistanceFromFirstPoint" : 47,
+    "RoadId" : "3542119",
+    "DistanceFromAddress" : 8,
+    "Shape" : {
+      "Latitude" : 50.0726522412542,
+      "Longitude" : 14.4093404675137
+    }
+  }, {
+    "Id" : "22083804",
+    "DistanceFromFirstPoint" : 33,
+    "RoadId" : "3542118",
+    "DistanceFromAddress" : 9,
+    "Shape" : {
+      "Latitude" : 50.0729961409376,
+      "Longitude" : 14.4098354905148
+    }
+  }, {
+    "Id" : "22084681",
+    "DistanceFromFirstPoint" : 102,
+    "RoadId" : "3542138",
+    "DistanceFromAddress" : 10,
+    "Shape" : {
+      "Latitude" : 50.0721374637115,
+      "Longitude" : 14.4100102696538
+    }
+  }, {
+    "Id" : "22084827",
+    "DistanceFromFirstPoint" : 45,
+    "RoadId" : "3542138",
+    "DistanceFromAddress" : 10,
+    "Shape" : {
+      "Latitude" : 50.0720575282355,
+      "Longitude" : 14.4092261182097
+    }
+  }, {
+    "Id" : "22085033",
+    "DistanceFromFirstPoint" : 65,
+    "RoadId" : "3542138",
+    "DistanceFromAddress" : 10,
+    "Shape" : {
+      "Latitude" : 50.0720853981229,
+      "Longitude" : 14.4094995126557
+    }
+  }, {
+    "Id" : "22085041",
+    "DistanceFromFirstPoint" : 84,
+    "RoadId" : "3542138",
+    "DistanceFromAddress" : 10,
+    "Shape" : {
+      "Latitude" : 50.0721121511531,
+      "Longitude" : 14.4097619564201
+    }
+  }, {
+    "Id" : "22087443",
+    "DistanceFromFirstPoint" : 34,
+    "RoadId" : "3542390",
+    "DistanceFromAddress" : 4,
+    "Shape" : {
+      "Latitude" : 50.0741182663474,
+      "Longitude" : 14.4092716466768
+    }
+  }, {
+    "Id" : "22087451",
+    "DistanceFromFirstPoint" : 75,
+    "RoadId" : "3542389",
+    "DistanceFromAddress" : 5,
+    "Shape" : {
+      "Latitude" : 50.0739774110126,
+      "Longitude" : 14.4091589539898
+    }
+  }, {
+    "Id" : "22087621",
+    "DistanceFromFirstPoint" : 27,
+    "RoadId" : "3542124",
+    "DistanceFromAddress" : 9,
+    "Shape" : {
+      "Latitude" : 50.0738298924383,
+      "Longitude" : 14.4090125209596
+    }
+  }, {
+    "Id" : "22087818",
+    "DistanceFromFirstPoint" : 62,
+    "RoadId" : "3542122",
+    "DistanceFromAddress" : 12,
+    "Shape" : {
+      "Latitude" : 50.0733500660077,
+      "Longitude" : 14.4091452038157
+    }
+  }, {
+    "Id" : "22087834",
+    "DistanceFromFirstPoint" : 31,
+    "RoadId" : "3542121",
+    "DistanceFromAddress" : 11,
+    "Shape" : {
+      "Latitude" : 50.0731923862169,
+      "Longitude" : 14.4087486023529
+    }
+  }, {
+    "Id" : "22087842",
+    "DistanceFromFirstPoint" : 28,
+    "RoadId" : "3542122",
+    "DistanceFromAddress" : 11,
+    "Shape" : {
+      "Latitude" : 50.0733111930861,
+      "Longitude" : 14.4086756598952
+    }
+  }, {
+    "Id" : "22088211",
+    "DistanceFromFirstPoint" : 50,
+    "RoadId" : "3542121",
+    "DistanceFromAddress" : 12,
+    "Shape" : {
+      "Latitude" : 50.0732153594398,
+      "Longitude" : 14.4090076799197
+    }
+  }, {
+    "Id" : "22088229",
+    "DistanceFromFirstPoint" : 67,
+    "RoadId" : "3542121",
+    "DistanceFromAddress" : 11,
+    "Shape" : {
+      "Latitude" : 50.073236515893,
+      "Longitude" : 14.4092462750761
+    }
+  }, {
+    "Id" : "22088377",
+    "DistanceFromFirstPoint" : 45,
+    "RoadId" : "3542122",
+    "DistanceFromAddress" : 11,
+    "Shape" : {
+      "Latitude" : 50.0733299702773,
+      "Longitude" : 14.4089024619706
+    }
+  }, {
+    "Id" : "22724192",
+    "DistanceFromFirstPoint" : 10,
+    "RoadId" : "3543974",
+    "DistanceFromAddress" : 5,
+    "Shape" : {
+      "Latitude" : 50.0734714761679,
+      "Longitude" : 14.4151680271418
+    }
+  }, {
+    "Id" : "22736361",
+    "DistanceFromFirstPoint" : 168,
+    "RoadId" : "3541993",
+    "DistanceFromAddress" : 7,
+    "Shape" : {
+      "Latitude" : 50.0740871535021,
+      "Longitude" : 14.4137677614415
+    }
+  }, {
+    "Id" : "22074937",
+    "DistanceFromFirstPoint" : 22,
+    "RoadId" : "712954",
+    "DistanceFromAddress" : 12,
+    "Shape" : {
+      "Latitude" : 50.0721040811977,
+      "Longitude" : 14.4101905268207
+    }
+  }, {
+    "Id" : "22074953",
+    "DistanceFromFirstPoint" : 123,
+    "RoadId" : "282234",
+    "DistanceFromAddress" : 10,
+    "Shape" : {
+      "Latitude" : 50.0718549088262,
+      "Longitude" : 14.4094032600334
+    }
+  }, {
+    "Id" : "22077171",
+    "DistanceFromFirstPoint" : 126,
+    "RoadId" : "282234",
+    "DistanceFromAddress" : 16,
+    "Shape" : {
+      "Latitude" : 50.0718848272101,
+      "Longitude" : 14.4093961858113
+    }
+  }, {
+    "Id" : "22078983",
+    "DistanceFromFirstPoint" : 86,
+    "RoadId" : "282234",
+    "DistanceFromAddress" : 11,
+    "Shape" : {
+      "Latitude" : 50.0715289147632,
+      "Longitude" : 14.4094803245403
+    }
+  }, {
+    "Id" : "22081071",
+    "DistanceFromFirstPoint" : 15,
+    "RoadId" : "1657930",
+    "DistanceFromAddress" : 10,
+    "Shape" : {
+      "Latitude" : 50.0709461011046,
+      "Longitude" : 14.4104603465381
+    }
+  }, {
+    "Id" : "22081097",
+    "DistanceFromFirstPoint" : 10,
+    "RoadId" : "1657931",
+    "DistanceFromAddress" : 12,
+    "Shape" : {
+      "Latitude" : 50.0710855397678,
+      "Longitude" : 14.4104669883357
+    }
+  }, {
+    "Id" : "22081101",
+    "DistanceFromFirstPoint" : 23,
+    "RoadId" : "1657931",
+    "DistanceFromAddress" : 13,
+    "Shape" : {
+      "Latitude" : 50.0712021474728,
+      "Longitude" : 14.4104725447473
+    }
+  }, {
+    "Id" : "22081933",
+    "DistanceFromFirstPoint" : 82,
+    "RoadId" : "282234",
+    "DistanceFromAddress" : 13,
+    "Shape" : {
+      "Latitude" : 50.0714889154102,
+      "Longitude" : 14.4094897821993
+    }
+  }, {
+    "Id" : "22082581",
+    "DistanceFromFirstPoint" : 82,
+    "RoadId" : "1657931",
+    "DistanceFromAddress" : 13,
+    "Shape" : {
+      "Latitude" : 50.0717315441007,
+      "Longitude" : 14.4104977645589
+    }
+  }, {
+    "Id" : "22082590",
+    "DistanceFromFirstPoint" : 61,
+    "RoadId" : "1657931",
+    "DistanceFromAddress" : 13,
+    "Shape" : {
+      "Latitude" : 50.0715489131989,
+      "Longitude" : 14.410489064734
+    }
+  }, {
+    "Id" : "22082603",
+    "DistanceFromFirstPoint" : 41,
+    "RoadId" : "1657931",
+    "DistanceFromAddress" : 14,
+    "Shape" : {
+      "Latitude" : 50.0713651018299,
+      "Longitude" : 14.4104803073992
+    }
+  }, {
+    "Id" : "22083090",
+    "DistanceFromFirstPoint" : 67,
+    "RoadId" : "282234",
+    "DistanceFromAddress" : 13,
+    "Shape" : {
+      "Latitude" : 50.0713563590493,
+      "Longitude" : 14.4095211168469
+    }
+  }, {
+    "Id" : "22085424",
+    "DistanceFromFirstPoint" : 70,
+    "RoadId" : "282234",
+    "DistanceFromAddress" : 15,
+    "Shape" : {
+      "Latitude" : 50.0713832488238,
+      "Longitude" : 14.4095147601671
+    }
+  }, {
+    "Id" : "22089063",
+    "DistanceFromFirstPoint" : 101,
+    "RoadId" : "282234",
+    "DistanceFromAddress" : 14,
+    "Shape" : {
+      "Latitude" : 50.0716589329314,
+      "Longitude" : 14.4094495879876
+    }
+  }, {
+    "Id" : "22089322",
+    "DistanceFromFirstPoint" : 105,
+    "RoadId" : "282234",
+    "DistanceFromAddress" : 10,
+    "Shape" : {
+      "Latitude" : 50.0716976034983,
+      "Longitude" : 14.4094404471355
+    }
+  }, {
+    "Id" : "22718451",
+    "DistanceFromFirstPoint" : 0,
+    "RoadId" : "3541488",
+    "DistanceFromAddress" : 9,
+    "Shape" : {
+      "Latitude" : 50.0733939542836,
+      "Longitude" : 14.4154198955123
+    }
+  }, {
+    "Id" : "30481392",
+    "DistanceFromFirstPoint" : 0,
+    "RoadId" : "3541489",
+    "DistanceFromAddress" : 21,
+    "Shape" : {
+      "Latitude" : 50.0733939542836,
+      "Longitude" : 14.4154198955123
+    }
+  } ],
+  "CrossWays" : [ {
+    "Id" : "3542127",
+    "CrossingType" : "ZebraWithoutSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3542126",
+    "CrossingType" : "ZebraWithoutSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3542117",
+    "CrossingType" : "ZebraWithoutSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3541371",
+    "CrossingType" : "ZebraWithoutSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3541373",
+    "CrossingType" : "ZebraWithoutSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3541374",
+    "CrossingType" : "ZebraWithoutSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "1001",
+    "CrossingType" : "AcustingAndLightSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3541484",
+    "CrossingType" : "ZebraWithoutSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3541485",
+    "CrossingType" : "ZebraWithoutSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3541995",
+    "CrossingType" : "AcustingAndLightSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3541997",
+    "CrossingType" : "AcustingAndLightSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3541999",
+    "CrossingType" : "AcustingAndLightSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3543645",
+    "CrossingType" : "ZebraWithoutSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "3543668",
+    "CrossingType" : "ZebraWithoutSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  }, {
+    "Id" : "2567372",
+    "CrossingType" : "AcustingAndLightSignal",
+    "ControlType" : "None",
+    "ControlButtonHeight" : 0,
+    "IsTactiloGuideline" : 0,
+    "NumberOfIsland" : 0,
+    "InclinationAngle" : 0,
+    "CrossingLength" : 0,
+    "Contrast" : "None"
+  } ],
+  "Segments" : [ {
+    "Id" : "280588",
+    "Name" : "Janáčkovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0742283509641,
+        "Longitude" : 14.4093095663357
+      }, {
+        "Latitude" : 50.0739485960931,
+        "Longitude" : 14.4094589517757
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "712792",
+    "Name" : "Lesnická",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0739485960931,
+        "Longitude" : 14.4094589517757
+      }, {
+        "Latitude" : 50.0737776575763,
+        "Longitude" : 14.4080429866774
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "280973",
+    "Name" : "Janáčkovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733333751797,
+        "Longitude" : 14.4097880831217
+      }, {
+        "Latitude" : 50.0739485960931,
+        "Longitude" : 14.4094589517757
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "280974",
+    "Name" : "Pecháčkova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.073208835275,
+        "Longitude" : 14.4081788718129
+      }, {
+        "Latitude" : 50.0733333751797,
+        "Longitude" : 14.4097880831217
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "281352",
+    "Name" : "Janáčkovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0726558038457,
+        "Longitude" : 14.410130551966
+      }, {
+        "Latitude" : 50.0733333751797,
+        "Longitude" : 14.4097880831217
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "712954",
+    "Name" : "Na bělidle",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0721332498538,
+        "Longitude" : 14.4104958863694
+      }, {
+        "Latitude" : 50.072025032176,
+        "Longitude" : 14.4093630411395
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "712957",
+    "Name" : "Na bělidle",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.072025032176,
+        "Longitude" : 14.4093630411395
+      }, {
+        "Latitude" : 50.0719323592037,
+        "Longitude" : 14.4085226595762
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "282234",
+    "Name" : "Na Celné",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0707626850995,
+        "Longitude" : 14.4096614592053
+      }, {
+        "Latitude" : 50.072025032176,
+        "Longitude" : 14.4093630411395
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1397245",
+    "Name" : "Nábřežní",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727610791562,
+        "Longitude" : 14.4102942552127
+      }, {
+        "Latitude" : 50.0729677733171,
+        "Longitude" : 14.4102645338667
+      }, {
+        "Latitude" : 50.0734659538546,
+        "Longitude" : 14.4100237943189
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1656053",
+    "Name" : "Nábřežní",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0734659538546,
+        "Longitude" : 14.4100237943189
+      }, {
+        "Latitude" : 50.0743275654603,
+        "Longitude" : 14.4095903464733
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1656057",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0708148135525,
+        "Longitude" : 14.4104540923184
+      }, {
+        "Latitude" : 50.0708312388253,
+        "Longitude" : 14.4108426404467
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1658237",
+    "Name" : "Dřevná",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0716230109767,
+        "Longitude" : 14.4144784954311
+      }, {
+        "Latitude" : 50.0716818446388,
+        "Longitude" : 14.4152182407077
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1658236",
+    "Name" : "Dřevná",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0716024432255,
+        "Longitude" : 14.4142199045337
+      }, {
+        "Latitude" : 50.0716230109767,
+        "Longitude" : 14.4144784954311
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "3541067",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727458447417,
+        "Longitude" : 14.4104855190056
+      }, {
+        "Latitude" : 50.0727805417503,
+        "Longitude" : 14.4104753128236
+      }, {
+        "Latitude" : 50.0727696843467,
+        "Longitude" : 14.4103731623036
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "3541084",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0726062663149,
+        "Longitude" : 14.4143891354953
+      }, {
+        "Latitude" : 50.0726356807639,
+        "Longitude" : 14.4150231128634
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1659113",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.072491907808,
+        "Longitude" : 14.4151275890353
+      }, {
+        "Latitude" : 50.0724427746654,
+        "Longitude" : 14.4150462702688
+      }, {
+        "Latitude" : 50.0724358127072,
+        "Longitude" : 14.4149101346102
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "1659114",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0719012891575,
+        "Longitude" : 14.4149604148671
+      }, {
+        "Latitude" : 50.07188408762,
+        "Longitude" : 14.4145917090413
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1659115",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0724358127072,
+        "Longitude" : 14.4149101346102
+      }, {
+        "Latitude" : 50.0719985044997,
+        "Longitude" : 14.4149516309129
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3541085",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0718766205962,
+        "Longitude" : 14.4144504864612
+      }, {
+        "Latitude" : 50.0717009167802,
+        "Longitude" : 14.4144698919968
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1659117",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0718766205962,
+        "Longitude" : 14.4144504864612
+      }, {
+        "Latitude" : 50.07188408762,
+        "Longitude" : 14.4145917090413
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1659118",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0724358127072,
+        "Longitude" : 14.4149101346102
+      }, {
+        "Latitude" : 50.0724182614542,
+        "Longitude" : 14.4145374804446
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1659119",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0719985044997,
+        "Longitude" : 14.4149516309129
+      }, {
+        "Latitude" : 50.0719012891575,
+        "Longitude" : 14.4149604148671
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "1659120",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0719012891575,
+        "Longitude" : 14.4149604148671
+      }, {
+        "Latitude" : 50.0719125742136,
+        "Longitude" : 14.4151994781605
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1659121",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.07188408762,
+        "Longitude" : 14.4145917090413
+      }, {
+        "Latitude" : 50.0719819996004,
+        "Longitude" : 14.4145907851292
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "1659122",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0719819996004,
+        "Longitude" : 14.4145907851292
+      }, {
+        "Latitude" : 50.0724182614542,
+        "Longitude" : 14.4145374804446
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1659123",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0719985044997,
+        "Longitude" : 14.4149516309129
+      }, {
+        "Latitude" : 50.0719819996004,
+        "Longitude" : 14.4145907851292
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3544109",
+    "Name" : "Zítkovy sady",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0728341054248,
+        "Longitude" : 14.4150025708635
+      }, {
+        "Latitude" : 50.0727256625187,
+        "Longitude" : 14.415013796455
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1658234",
+    "Name" : "Zítkovy sady",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0722370165498,
+        "Longitude" : 14.4151527171906
+      }, {
+        "Latitude" : 50.0719125742136,
+        "Longitude" : 14.4151994781605
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3541089",
+    "Name" : "Zítkovy sady",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0719125742136,
+        "Longitude" : 14.4151994781605
+      }, {
+        "Latitude" : 50.0717521815366,
+        "Longitude" : 14.4152125212655
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1662169",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725163907626,
+        "Longitude" : 14.4143943153754
+      }, {
+        "Latitude" : 50.0724165126594,
+        "Longitude" : 14.4144058871056
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1662170",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0724165126594,
+        "Longitude" : 14.4144058871056
+      }, {
+        "Latitude" : 50.0718766205962,
+        "Longitude" : 14.4144504864612
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1721654",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0724165126594,
+        "Longitude" : 14.4144058871056
+      }, {
+        "Latitude" : 50.0724182614542,
+        "Longitude" : 14.4145374804446
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "2377961",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0701572330532,
+        "Longitude" : 14.410908210635
+      }, {
+        "Latitude" : 50.0707215536471,
+        "Longitude" : 14.4107865253538
+      }, {
+        "Latitude" : 50.0708312388253,
+        "Longitude" : 14.4108426404467
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2377967",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0724182614542,
+        "Longitude" : 14.4145374804446
+      }, {
+        "Latitude" : 50.0725223681254,
+        "Longitude" : 14.4145307226159
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "2377968",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725163907626,
+        "Longitude" : 14.4143943153754
+      }, {
+        "Latitude" : 50.0725223681254,
+        "Longitude" : 14.4145307226159
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2377969",
+    "Name" : "Zítkovy sady",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0726356807639,
+        "Longitude" : 14.4150231128634
+      }, {
+        "Latitude" : 50.0725460338113,
+        "Longitude" : 14.4150344968774
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "2377970",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725223681254,
+        "Longitude" : 14.4145307226159
+      }, {
+        "Latitude" : 50.0725395837008,
+        "Longitude" : 14.4148973672227
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2377971",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725395837008,
+        "Longitude" : 14.4148973672227
+      }, {
+        "Latitude" : 50.0724358127072,
+        "Longitude" : 14.4149101346102
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "2377972",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725395837008,
+        "Longitude" : 14.4148973672227
+      }, {
+        "Latitude" : 50.0725460338113,
+        "Longitude" : 14.4150344968774
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2377973",
+    "Name" : "Zítkovy sady",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725460338113,
+        "Longitude" : 14.4150344968774
+      }, {
+        "Latitude" : 50.072491907808,
+        "Longitude" : 14.4151275890353
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2377974",
+    "Name" : "Zítkovy sady",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.072491907808,
+        "Longitude" : 14.4151275890353
+      }, {
+        "Latitude" : 50.0722370165498,
+        "Longitude" : 14.4151527171906
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2567364",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0708312388253,
+        "Longitude" : 14.4108426404467
+      }, {
+        "Latitude" : 50.0709275826507,
+        "Longitude" : 14.4108755852466
+      }, {
+        "Latitude" : 50.0716537169068,
+        "Longitude" : 14.410712343126
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2567365",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0716631516329,
+        "Longitude" : 14.4108127594852
+      }, {
+        "Latitude" : 50.0716537169068,
+        "Longitude" : 14.410712343126
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "3541108",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0716537169068,
+        "Longitude" : 14.410712343126
+      }, {
+        "Latitude" : 50.0719651358084,
+        "Longitude" : 14.4106423325152
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2567371",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725136927774,
+        "Longitude" : 14.4142429916677
+      }, {
+        "Latitude" : 50.0725163907626,
+        "Longitude" : 14.4143943153754
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "2775201",
+    "Name" : "Nábřežní",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0743275654603,
+        "Longitude" : 14.4095903464733
+      }, {
+        "Latitude" : 50.0749374420076,
+        "Longitude" : 14.409329628745
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "2785677",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0743229539595,
+        "Longitude" : 14.4097733761428
+      }, {
+        "Latitude" : 50.0743275654603,
+        "Longitude" : 14.4095903464733
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "281242",
+    "Name" : "Gorazdova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733565026756,
+        "Longitude" : 14.4154296213648
+      }, {
+        "Latitude" : 50.0733424111473,
+        "Longitude" : 14.4152867347285
+      }, {
+        "Latitude" : 50.0733537747249,
+        "Longitude" : 14.4151648310531
+      }, {
+        "Latitude" : 50.0733685829063,
+        "Longitude" : 14.4151471305621
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "280752",
+    "Name" : "Trojanova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0741785574553,
+        "Longitude" : 14.4150225305057
+      }, {
+        "Latitude" : 50.0741261967442,
+        "Longitude" : 14.4139196392766
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "712883",
+    "Name" : "Gorazdova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733685829063,
+        "Longitude" : 14.4151471305621
+      }, {
+        "Latitude" : 50.0734072269865,
+        "Longitude" : 14.4151048552548
+      }, {
+        "Latitude" : 50.0741785574553,
+        "Longitude" : 14.4150225305057
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "282529",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0716024432255,
+        "Longitude" : 14.4142199045337
+      }, {
+        "Latitude" : 50.0706125251963,
+        "Longitude" : 14.4144176001518
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1657928",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727610791562,
+        "Longitude" : 14.4102942552127
+      }, {
+        "Latitude" : 50.0741891525813,
+        "Longitude" : 14.4095444723257
+      }, {
+        "Latitude" : 50.0742529982047,
+        "Longitude" : 14.4094908310573
+      }, {
+        "Latitude" : 50.0744351610577,
+        "Longitude" : 14.4092564101727
+      }, {
+        "Latitude" : 50.0744986201117,
+        "Longitude" : 14.4091984100348
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "3541143",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0721332498538,
+        "Longitude" : 14.4104958863694
+      }, {
+        "Latitude" : 50.0725803855872,
+        "Longitude" : 14.410351486087
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "3439517",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0708312388253,
+        "Longitude" : 14.4108426404467
+      }, {
+        "Latitude" : 50.0702608343374,
+        "Longitude" : 14.4109875001248
+      }, {
+        "Latitude" : 50.0701902675544,
+        "Longitude" : 14.4110390718967
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1656050",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0728353133903,
+        "Longitude" : 14.4105586027664
+      }, {
+        "Latitude" : 50.0735103306337,
+        "Longitude" : 14.4103026974998
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1656051",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725895642235,
+        "Longitude" : 14.4106217513919
+      }, {
+        "Latitude" : 50.0727024020775,
+        "Longitude" : 14.4105995908471
+      }, {
+        "Latitude" : 50.0728353133903,
+        "Longitude" : 14.4105586027664
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "3541174",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0702027236728,
+        "Longitude" : 14.4111795662231
+      }, {
+        "Latitude" : 50.0706948270989,
+        "Longitude" : 14.4110612325034
+      }, {
+        "Latitude" : 50.0711285957736,
+        "Longitude" : 14.4109434613355
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "2567368",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0716631516329,
+        "Longitude" : 14.4108127594852
+      }, {
+        "Latitude" : 50.0723853159312,
+        "Longitude" : 14.4106564458312
+      }, {
+        "Latitude" : 50.0725895642235,
+        "Longitude" : 14.4106217513919
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1397247",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0734659538546,
+        "Longitude" : 14.4100237943189
+      }, {
+        "Latitude" : 50.0735103306337,
+        "Longitude" : 14.4103026974998
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "2768492",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0735103306337,
+        "Longitude" : 14.4103026974998
+      }, {
+        "Latitude" : 50.073807872284,
+        "Longitude" : 14.4101904901849
+      }, {
+        "Latitude" : 50.0741522616829,
+        "Longitude" : 14.4100284459976
+      }, {
+        "Latitude" : 50.074264212182,
+        "Longitude" : 14.4099196646275
+      }, {
+        "Latitude" : 50.0743229539595,
+        "Longitude" : 14.4097733761428
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1657931",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0709983696575,
+        "Longitude" : 14.4104628364028
+      }, {
+        "Latitude" : 50.0720309466856,
+        "Longitude" : 14.4105120282581
+      }, {
+        "Latitude" : 50.0721332498538,
+        "Longitude" : 14.4104958863694
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1657930",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0708148135525,
+        "Longitude" : 14.4104540923184
+      }, {
+        "Latitude" : 50.0709983696575,
+        "Longitude" : 14.4104628364028
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "281243",
+    "Name" : "Na Moráni",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0735414355368,
+        "Longitude" : 14.4164213058732
+      }, {
+        "Latitude" : 50.0733565026756,
+        "Longitude" : 14.4154296213648
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1480068",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0754246424146,
+        "Longitude" : 14.413863583816
+      }, {
+        "Latitude" : 50.0752447899228,
+        "Longitude" : 14.4138390055873
+      }, {
+        "Latitude" : 50.0751099517167,
+        "Longitude" : 14.4138346211865
+      }, {
+        "Latitude" : 50.0741261967442,
+        "Longitude" : 14.4139196392766
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1278140",
+    "Name" : "Palackého most",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0730969606583,
+        "Longitude" : 14.413980476793
+      }, {
+        "Latitude" : 50.0730196813916,
+        "Longitude" : 14.4138313402233
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1278141",
+    "Name" : "Palackého most",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0730196813916,
+        "Longitude" : 14.4138313402233
+      }, {
+        "Latitude" : 50.0730091379834,
+        "Longitude" : 14.4137253044365
+      }, {
+        "Latitude" : 50.072857120758,
+        "Longitude" : 14.4121966158623
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1684944",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0730969606583,
+        "Longitude" : 14.413980476793
+      }, {
+        "Latitude" : 50.0725102355248,
+        "Longitude" : 14.4140490435354
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1684945",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725102355248,
+        "Longitude" : 14.4140490435354
+      }, {
+        "Latitude" : 50.0716024432255,
+        "Longitude" : 14.4142199045337
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "281364",
+    "Name" : "Lidická",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0724833679927,
+        "Longitude" : 14.4083905958179
+      }, {
+        "Latitude" : 50.0726558038457,
+        "Longitude" : 14.410130551966
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "281338",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0741261967442,
+        "Longitude" : 14.4139196392766
+      }, {
+        "Latitude" : 50.0730969606583,
+        "Longitude" : 14.413980476793
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "281354",
+    "Name" : "Palackého most",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.072857120758,
+        "Longitude" : 14.4121966158623
+      }, {
+        "Latitude" : 50.0727024020775,
+        "Longitude" : 14.4105995908471
+      }, {
+        "Latitude" : 50.0726926996911,
+        "Longitude" : 14.4104997076773
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "281353",
+    "Name" : "Palackého most",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0726558038457,
+        "Longitude" : 14.410130551966
+      }, {
+        "Latitude" : 50.0726727913814,
+        "Longitude" : 14.4103221500546
+      }, {
+        "Latitude" : 50.0726926996911,
+        "Longitude" : 14.4104997076773
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1659116",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0717009167802,
+        "Longitude" : 14.4144698919968
+      }, {
+        "Latitude" : 50.0716230109767,
+        "Longitude" : 14.4144784954311
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2567366",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0711285957736,
+        "Longitude" : 14.4109434613355
+      }, {
+        "Latitude" : 50.0713813276797,
+        "Longitude" : 14.4108748422925
+      }, {
+        "Latitude" : 50.0716631516329,
+        "Longitude" : 14.4108127594852
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "281628",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725803855872,
+        "Longitude" : 14.410351486087
+      }, {
+        "Latitude" : 50.0726727913814,
+        "Longitude" : 14.4103221500546
+      }, {
+        "Latitude" : 50.0727610791562,
+        "Longitude" : 14.4102942552127
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "1659112",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725163907626,
+        "Longitude" : 14.4143943153754
+      }, {
+        "Latitude" : 50.0726062663149,
+        "Longitude" : 14.4143891354953
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "1658232",
+    "Name" : "Zítkovy sady",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727256625187,
+        "Longitude" : 14.415013796455
+      }, {
+        "Latitude" : 50.0726356807639,
+        "Longitude" : 14.4150231128634
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "281263",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0732689255223,
+        "Longitude" : 14.4151045351465
+      }, {
+        "Latitude" : 50.0733111744257,
+        "Longitude" : 14.4151048839351
+      }, {
+        "Latitude" : 50.0733685829063,
+        "Longitude" : 14.4151471305621
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "281804",
+    "Name" : "náměstí Pod Emauzy",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0722370165498,
+        "Longitude" : 14.4151527171906
+      }, {
+        "Latitude" : 50.0722796453784,
+        "Longitude" : 14.4160491510788
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "281486",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0728341054248,
+        "Longitude" : 14.4150025708635
+      }, {
+        "Latitude" : 50.0728416664236,
+        "Longitude" : 14.4151454993576
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2567374",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0731821087392,
+        "Longitude" : 14.4151128598761
+      }, {
+        "Latitude" : 50.0728416664236,
+        "Longitude" : 14.4151454993576
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2567370",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0728402846626,
+        "Longitude" : 14.414226022506
+      }, {
+        "Latitude" : 50.0728341054248,
+        "Longitude" : 14.4150025708635
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2567372",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725136927774,
+        "Longitude" : 14.4142429916677
+      }, {
+        "Latitude" : 50.0725102355248,
+        "Longitude" : 14.4140490435354
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2567375",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0728402846626,
+        "Longitude" : 14.414226022506
+      }, {
+        "Latitude" : 50.0729080193938,
+        "Longitude" : 14.4142775881829
+      }, {
+        "Latitude" : 50.0730356981317,
+        "Longitude" : 14.4145258267536
+      }, {
+        "Latitude" : 50.0731301276398,
+        "Longitude" : 14.4147415447999
+      }, {
+        "Latitude" : 50.0731719043716,
+        "Longitude" : 14.4149251193853
+      }, {
+        "Latitude" : 50.0731821087392,
+        "Longitude" : 14.4151128598761
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3541186",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0705589045053,
+        "Longitude" : 14.4140773533354
+      }, {
+        "Latitude" : 50.0713189468483,
+        "Longitude" : 14.4139147344105
+      }, {
+        "Latitude" : 50.0717523500067,
+        "Longitude" : 14.4138531969481
+      }, {
+        "Latitude" : 50.0719777101649,
+        "Longitude" : 14.4138560469093
+      }, {
+        "Latitude" : 50.0730091379834,
+        "Longitude" : 14.4137253044365
+      }, {
+        "Latitude" : 50.0735491217577,
+        "Longitude" : 14.4136804449359
+      }, {
+        "Latitude" : 50.0736490997204,
+        "Longitude" : 14.4136660873971
+      } ]
+    },
+    "FormOfWay" : "PedestrianZone"
+  }, {
+    "Id" : "3541191",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0705589045053,
+        "Longitude" : 14.4140773533354
+      }, {
+        "Latitude" : 50.0706835208729,
+        "Longitude" : 14.4141888441119
+      }, {
+        "Latitude" : 50.0714310379521,
+        "Longitude" : 14.4140467324174
+      } ]
+    },
+    "FormOfWay" : "PedestrianZone"
+  }, {
+    "Id" : "2567376",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.073222682315,
+        "Longitude" : 14.4151089697938
+      }, {
+        "Latitude" : 50.0731821087392,
+        "Longitude" : 14.4151128598761
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2567367",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0719651358084,
+        "Longitude" : 14.4106423325152
+      }, {
+        "Latitude" : 50.0721332498538,
+        "Longitude" : 14.4104958863694
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1656061",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0726311610926,
+        "Longitude" : 14.4105161385122
+      }, {
+        "Latitude" : 50.0726926996911,
+        "Longitude" : 14.4104997076773
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3544126",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0726926996911,
+        "Longitude" : 14.4104997076773
+      }, {
+        "Latitude" : 50.0727458447417,
+        "Longitude" : 14.4104855190056
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3543959",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727696843467,
+        "Longitude" : 14.4103731623036
+      }, {
+        "Latitude" : 50.0727610791562,
+        "Longitude" : 14.4102942552127
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3543960",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725888565079,
+        "Longitude" : 14.410408609888
+      }, {
+        "Latitude" : 50.0725803855872,
+        "Longitude" : 14.410351486087
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "1397243",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0714310379521,
+        "Longitude" : 14.4140467324174
+      }, {
+        "Latitude" : 50.0716024432255,
+        "Longitude" : 14.4142199045337
+      } ]
+    },
+    "FormOfWay" : "PedestrianZone"
+  }, {
+    "Id" : "3544045",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0737871051629,
+        "Longitude" : 14.413646269297
+      }, {
+        "Latitude" : 50.0739560356458,
+        "Longitude" : 14.4136220096971
+      }, {
+        "Latitude" : 50.0745707557682,
+        "Longitude" : 14.4135889025374
+      }, {
+        "Latitude" : 50.0753209824008,
+        "Longitude" : 14.4135664702661
+      }, {
+        "Latitude" : 50.0756553550841,
+        "Longitude" : 14.4135890984596
+      }, {
+        "Latitude" : 50.0757143618048,
+        "Longitude" : 14.4136009444349
+      }, {
+        "Latitude" : 50.0757797536411,
+        "Longitude" : 14.4136131502903
+      } ]
+    },
+    "FormOfWay" : "PedestrianZone"
+  }, {
+    "Id" : "1397244",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0736490997204,
+        "Longitude" : 14.4136660873971
+      }, {
+        "Latitude" : 50.0737871051629,
+        "Longitude" : 14.413646269297
+      } ]
+    },
+    "FormOfWay" : "PedestrianZone"
+  }, {
+    "Id" : "3541109",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0732689255223,
+        "Longitude" : 14.4151045351465
+      }, {
+        "Latitude" : 50.073222682315,
+        "Longitude" : 14.4151089697938
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "281337",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0732689255223,
+        "Longitude" : 14.4151045351465
+      }, {
+        "Latitude" : 50.0732151992177,
+        "Longitude" : 14.4142096993147
+      }, {
+        "Latitude" : 50.0731987093543,
+        "Longitude" : 14.4141591245266
+      }, {
+        "Latitude" : 50.0730969606583,
+        "Longitude" : 14.413980476793
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "3563348",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0732689255223,
+        "Longitude" : 14.4151045351465
+      }, {
+        "Latitude" : 50.0732828111434,
+        "Longitude" : 14.41539452462
+      }, {
+        "Latitude" : 50.0733061052434,
+        "Longitude" : 14.4155761017251
+      }, {
+        "Latitude" : 50.0734569595359,
+        "Longitude" : 14.4164113361708
+      }, {
+        "Latitude" : 50.0735565446227,
+        "Longitude" : 14.4169254635369
+      }, {
+        "Latitude" : 50.0736219909112,
+        "Longitude" : 14.4172304833559
+      }, {
+        "Latitude" : 50.0736600142457,
+        "Longitude" : 14.4173907547859
+      } ]
+    },
+    "FormOfWay" : "3"
+  }, {
+    "Id" : "2567369",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.072491907808,
+        "Longitude" : 14.4151275890353
+      }, {
+        "Latitude" : 50.0725459162442,
+        "Longitude" : 14.4151534157935
+      }, {
+        "Latitude" : 50.0726467087505,
+        "Longitude" : 14.4151394021073
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "2567373",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725136927774,
+        "Longitude" : 14.4142429916677
+      }, {
+        "Latitude" : 50.0727678173462,
+        "Longitude" : 14.4142169931052
+      }, {
+        "Latitude" : 50.0728402846626,
+        "Longitude" : 14.414226022506
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3541243",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0724165126594,
+        "Longitude" : 14.4144058871056
+      }, {
+        "Latitude" : 50.0719809237997,
+        "Longitude" : 14.4144418701556
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3541311",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0755705495952,
+        "Longitude" : 14.414132196554
+      }, {
+        "Latitude" : 50.0754093987285,
+        "Longitude" : 14.4140460829855
+      }, {
+        "Latitude" : 50.0752514310899,
+        "Longitude" : 14.4139977936989
+      }, {
+        "Latitude" : 50.0749876531355,
+        "Longitude" : 14.4140019985863
+      }, {
+        "Latitude" : 50.0741942005965,
+        "Longitude" : 14.4140449128116
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541312",
+    "Name" : "Trojanova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0741942005965,
+        "Longitude" : 14.4140449128116
+      }, {
+        "Latitude" : 50.0742245585965,
+        "Longitude" : 14.4148481069214
+      }, {
+        "Latitude" : 50.0742328418247,
+        "Longitude" : 14.4148873785132
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541371",
+    "Name" : "Trojanova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0741942005965,
+        "Longitude" : 14.4140449128116
+      }, {
+        "Latitude" : 50.0740660864651,
+        "Longitude" : 14.4140586196382
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3541372",
+    "Name" : "Trojanova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0740660864651,
+        "Longitude" : 14.4140586196382
+      }, {
+        "Latitude" : 50.0740986306962,
+        "Longitude" : 14.4149135820875
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541373",
+    "Name" : "Trojanova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0740986306962,
+        "Longitude" : 14.4149135820875
+      }, {
+        "Latitude" : 50.0742328418247,
+        "Longitude" : 14.4148873785132
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3541374",
+    "Name" : "Gorazdova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0740986306962,
+        "Longitude" : 14.4149135820875
+      }, {
+        "Latitude" : 50.0741224047402,
+        "Longitude" : 14.4151547593583
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3541466",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725102355248,
+        "Longitude" : 14.4140490435354
+      }, {
+        "Latitude" : 50.0725499013249,
+        "Longitude" : 14.4139854697213
+      }, {
+        "Latitude" : 50.072551745911,
+        "Longitude" : 14.4138905760713
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3541468",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725136927774,
+        "Longitude" : 14.4142429916677
+      }, {
+        "Latitude" : 50.0718767400157,
+        "Longitude" : 14.414349232559
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541469",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0718767400157,
+        "Longitude" : 14.414349232559
+      }, {
+        "Latitude" : 50.0716924108405,
+        "Longitude" : 14.4143641790229
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541470",
+    "Name" : "Dřevná",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0716924108405,
+        "Longitude" : 14.4143641790229
+      }, {
+        "Latitude" : 50.0717009167802,
+        "Longitude" : 14.4144698919968
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541471",
+    "Name" : "Dřevná",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0717009167802,
+        "Longitude" : 14.4144698919968
+      }, {
+        "Latitude" : 50.0717521815366,
+        "Longitude" : 14.4152125212655
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541473",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0731207278786,
+        "Longitude" : 14.4141875401429
+      }, {
+        "Latitude" : 50.0731840011693,
+        "Longitude" : 14.4145113034401
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541477",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733454806512,
+        "Longitude" : 14.4141824947115
+      }, {
+        "Latitude" : 50.0733608281894,
+        "Longitude" : 14.4145122731852
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541478",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733608281894,
+        "Longitude" : 14.4145122731852
+      }, {
+        "Latitude" : 50.0733605056465,
+        "Longitude" : 14.4149421794071
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541479",
+    "Name" : "Gorazdova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0740986306962,
+        "Longitude" : 14.4149135820875
+      }, {
+        "Latitude" : 50.0733605056465,
+        "Longitude" : 14.4149421794071
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541480",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733608281894,
+        "Longitude" : 14.4145122731852
+      }, {
+        "Latitude" : 50.0733085751457,
+        "Longitude" : 14.4148547860849
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "3541481",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0731725838451,
+        "Longitude" : 14.4147943329562
+      }, {
+        "Latitude" : 50.0731983522468,
+        "Longitude" : 14.4150634355371
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3541482",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0731983522468,
+        "Longitude" : 14.4150634355371
+      }, {
+        "Latitude" : 50.0733085751457,
+        "Longitude" : 14.4148547860849
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3541483",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733605056465,
+        "Longitude" : 14.4149421794071
+      }, {
+        "Latitude" : 50.0733341977865,
+        "Longitude" : 14.4150707510614
+      }, {
+        "Latitude" : 50.0733153282338,
+        "Longitude" : 14.4151829943543
+      }, {
+        "Latitude" : 50.0733252861453,
+        "Longitude" : 14.415430854992
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3541484",
+    "Name" : "Gorazdova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733252861453,
+        "Longitude" : 14.415430854992
+      }, {
+        "Latitude" : 50.0733939542836,
+        "Longitude" : 14.4154198955123
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3541485",
+    "Name" : "Na Moráni",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733252861453,
+        "Longitude" : 14.415430854992
+      }, {
+        "Latitude" : 50.0732390621716,
+        "Longitude" : 14.4154604946623
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3541486",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.073222682315,
+        "Longitude" : 14.4151089697938
+      }, {
+        "Latitude" : 50.0732390621716,
+        "Longitude" : 14.4154604946623
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541487",
+    "Name" : "Na Moráni",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0732390621716,
+        "Longitude" : 14.4154604946623
+      }, {
+        "Latitude" : 50.0733142379556,
+        "Longitude" : 14.415929468931
+      }, {
+        "Latitude" : 50.0733802156849,
+        "Longitude" : 14.4163010507127
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541488",
+    "Name" : "Na Moráni",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733939542836,
+        "Longitude" : 14.4154198955123
+      }, {
+        "Latitude" : 50.073578012516,
+        "Longitude" : 14.416301051144
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541489",
+    "Name" : "Gorazdova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733939542836,
+        "Longitude" : 14.4154198955123
+      }, {
+        "Latitude" : 50.0733869167742,
+        "Longitude" : 14.4152049899157
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541490",
+    "Name" : "Gorazdova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0736696514694,
+        "Longitude" : 14.4151639876626
+      }, {
+        "Latitude" : 50.0741224047402,
+        "Longitude" : 14.4151547593583
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541993",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0755932849177,
+        "Longitude" : 14.4136254010104
+      }, {
+        "Latitude" : 50.0754270659687,
+        "Longitude" : 14.4137047719628
+      }, {
+        "Latitude" : 50.0747383195761,
+        "Longitude" : 14.4137309921503
+      }, {
+        "Latitude" : 50.0738434498789,
+        "Longitude" : 14.4137815219763
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541997",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733356781068,
+        "Longitude" : 14.4138101932741
+      }, {
+        "Latitude" : 50.0733417089036,
+        "Longitude" : 14.4141014523741
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3542063",
+    "Name" : "Palackého most",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.072551745911,
+        "Longitude" : 14.4138905760713
+      }, {
+        "Latitude" : 50.0724256367513,
+        "Longitude" : 14.4139044785578
+      }, {
+        "Latitude" : 50.0717081113904,
+        "Longitude" : 14.4139803981526
+      }, {
+        "Latitude" : 50.0714314479995,
+        "Longitude" : 14.4140084728506
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542078",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.072924954786,
+        "Longitude" : 14.4137649318525
+      }, {
+        "Latitude" : 50.0728860447817,
+        "Longitude" : 14.4138537242146
+      }, {
+        "Latitude" : 50.072551745911,
+        "Longitude" : 14.4138905760713
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542108",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0731983522468,
+        "Longitude" : 14.4150634355371
+      }, {
+        "Latitude" : 50.072781903193,
+        "Longitude" : 14.4151086969277
+      }, {
+        "Latitude" : 50.0726467087505,
+        "Longitude" : 14.4151394021073
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3542115",
+    "Name" : "Palackého most",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727458447417,
+        "Longitude" : 14.4104855190056
+      }, {
+        "Latitude" : 50.0727249826917,
+        "Longitude" : 14.4102549367504
+      }, {
+        "Latitude" : 50.0727348049682,
+        "Longitude" : 14.4101980629419
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542119",
+    "Name" : "Lidická",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727171310161,
+        "Longitude" : 14.4099839437241
+      }, {
+        "Latitude" : 50.0725630166481,
+        "Longitude" : 14.4084557427905
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542121",
+    "Name" : "Pecháčkova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0731544559413,
+        "Longitude" : 14.408320863338
+      }, {
+        "Latitude" : 50.0732755769781,
+        "Longitude" : 14.4096868075357
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542122",
+    "Name" : "Pecháčkova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0732785917777,
+        "Longitude" : 14.4082818966542
+      }, {
+        "Latitude" : 50.0733908093929,
+        "Longitude" : 14.4096373599281
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542123",
+    "Name" : "Janáčkovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733908093929,
+        "Longitude" : 14.4096373599281
+      }, {
+        "Latitude" : 50.0738738703953,
+        "Longitude" : 14.4093893939547
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542124",
+    "Name" : "Lesnická",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0738738703953,
+        "Longitude" : 14.4093893939547
+      }, {
+        "Latitude" : 50.0737299769179,
+        "Longitude" : 14.4081563464116
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542126",
+    "Name" : "Pecháčkova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0732755769781,
+        "Longitude" : 14.4096868075357
+      }, {
+        "Latitude" : 50.0733908093929,
+        "Longitude" : 14.4096373599281
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3542127",
+    "Name" : "Lesnická",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0738738703953,
+        "Longitude" : 14.4093893939547
+      }, {
+        "Latitude" : 50.073995490795,
+        "Longitude" : 14.409322056363
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3542138",
+    "Name" : "Na bělidle",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0719935246836,
+        "Longitude" : 14.4085983118362
+      }, {
+        "Latitude" : 50.0721772919102,
+        "Longitude" : 14.4104009945014
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542140",
+    "Name" : "Lidická",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0726311610926,
+        "Longitude" : 14.4105161385122
+      }, {
+        "Latitude" : 50.0726165152458,
+        "Longitude" : 14.4103784650876
+      }, {
+        "Latitude" : 50.0726142440368,
+        "Longitude" : 14.4103572297317
+      }, {
+        "Latitude" : 50.0724146847782,
+        "Longitude" : 14.4084916287941
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542389",
+    "Name" : "Lesnická",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0738626572211,
+        "Longitude" : 14.4081238093347
+      }, {
+        "Latitude" : 50.073995490795,
+        "Longitude" : 14.409322056363
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542390",
+    "Name" : "Janáčkovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0744122662267,
+        "Longitude" : 14.4091509339896
+      }, {
+        "Latitude" : 50.073995490795,
+        "Longitude" : 14.409322056363
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3543579",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725888565079,
+        "Longitude" : 14.410408609888
+      }, {
+        "Latitude" : 50.0727696843467,
+        "Longitude" : 14.4103731623036
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3543580",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0726311610926,
+        "Longitude" : 14.4105161385122
+      }, {
+        "Latitude" : 50.0725977979479,
+        "Longitude" : 14.4105200248372
+      }, {
+        "Latitude" : 50.0725888565079,
+        "Longitude" : 14.410408609888
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "3543581",
+    "Name" : "Palackého most",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0726311610926,
+        "Longitude" : 14.4105161385122
+      }, {
+        "Latitude" : 50.0726409165297,
+        "Longitude" : 14.4106116653362
+      }, {
+        "Latitude" : 50.0726700645631,
+        "Longitude" : 14.4108970810352
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3543667",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725888565079,
+        "Longitude" : 14.410408609888
+      }, {
+        "Latitude" : 50.0722947972579,
+        "Longitude" : 14.4105466019587
+      }, {
+        "Latitude" : 50.0719651358084,
+        "Longitude" : 14.4106423325152
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3543668",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0719651358084,
+        "Longitude" : 14.4106423325152
+      }, {
+        "Latitude" : 50.0719654026005,
+        "Longitude" : 14.4104499505339
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3543737",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0731983522468,
+        "Longitude" : 14.4150634355371
+      }, {
+        "Latitude" : 50.0734072297642,
+        "Longitude" : 14.4150426581896
+      }, {
+        "Latitude" : 50.0735473776982,
+        "Longitude" : 14.4152421442673
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3543738",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0736713850175,
+        "Longitude" : 14.4152324035777
+      }, {
+        "Latitude" : 50.0736696514694,
+        "Longitude" : 14.4151639876626
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3543739",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0735473776982,
+        "Longitude" : 14.4152421442673
+      }, {
+        "Latitude" : 50.0736713850175,
+        "Longitude" : 14.4152324035777
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "3543740",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0735764764212,
+        "Longitude" : 14.4137356038713
+      }, {
+        "Latitude" : 50.0737079139584,
+        "Longitude" : 14.4137329944902
+      }, {
+        "Latitude" : 50.073707448295,
+        "Longitude" : 14.4137181964072
+      }, {
+        "Latitude" : 50.0736518157114,
+        "Longitude" : 14.4137245033564
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "3543741",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0735802243237,
+        "Longitude" : 14.4137963852984
+      }, {
+        "Latitude" : 50.0735764764212,
+        "Longitude" : 14.4137356038713
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3543742",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0736518157114,
+        "Longitude" : 14.4137245033564
+      }, {
+        "Latitude" : 50.0736490997204,
+        "Longitude" : 14.4136660873971
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3543743",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0738417938475,
+        "Longitude" : 14.4137214348936
+      }, {
+        "Latitude" : 50.0737141076738,
+        "Longitude" : 14.4137337958046
+      }, {
+        "Latitude" : 50.0737135754999,
+        "Longitude" : 14.4137168853166
+      }, {
+        "Latitude" : 50.0737888657404,
+        "Longitude" : 14.4137129014233
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "3543745",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0737888657404,
+        "Longitude" : 14.4137129014233
+      }, {
+        "Latitude" : 50.0737871051629,
+        "Longitude" : 14.413646269297
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3543746",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0738434498789,
+        "Longitude" : 14.4137815219763
+      }, {
+        "Latitude" : 50.0738417938475,
+        "Longitude" : 14.4137214348936
+      } ]
+    },
+    "FormOfWay" : "WalkWay"
+  }, {
+    "Id" : "3543866",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0714314479995,
+        "Longitude" : 14.4140084728506
+      }, {
+        "Latitude" : 50.0714310379521,
+        "Longitude" : 14.4140467324174
+      } ]
+    },
+    "FormOfWay" : "98"
+  }, {
+    "Id" : "3543961",
+    "Name" : "Nábřežní",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727696843467,
+        "Longitude" : 14.4103731623036
+      }, {
+        "Latitude" : 50.0732481928294,
+        "Longitude" : 14.4102380906082
+      }, {
+        "Latitude" : 50.0734147490577,
+        "Longitude" : 14.4101530004617
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3543962",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0734147490577,
+        "Longitude" : 14.4101530004617
+      }, {
+        "Latitude" : 50.0734659538546,
+        "Longitude" : 14.4100237943189
+      } ]
+    },
+    "FormOfWay" : "98"
+  }, {
+    "Id" : "3543974",
+    "Name" : "Gorazdova",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733869167742,
+        "Longitude" : 14.4152049899157
+      }, {
+        "Latitude" : 50.0734533142698,
+        "Longitude" : 14.4151683971326
+      }, {
+        "Latitude" : 50.0736696514694,
+        "Longitude" : 14.4151639876626
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3543975",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0738434498789,
+        "Longitude" : 14.4137815219763
+      }, {
+        "Latitude" : 50.0735802243237,
+        "Longitude" : 14.4137963852984
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3543976",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0735802243237,
+        "Longitude" : 14.4137963852984
+      }, {
+        "Latitude" : 50.0733356781068,
+        "Longitude" : 14.4138101932741
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541467",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0719809237997,
+        "Longitude" : 14.4144418701556
+      }, {
+        "Latitude" : 50.0719819996004,
+        "Longitude" : 14.4145907851292
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "3541472",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0728402846626,
+        "Longitude" : 14.414226022506
+      }, {
+        "Latitude" : 50.0731207278786,
+        "Longitude" : 14.4141875401429
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541474",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0731840011693,
+        "Longitude" : 14.4145113034401
+      }, {
+        "Latitude" : 50.0731725838451,
+        "Longitude" : 14.4147943329562
+      } ]
+    },
+    "FormOfWay" : "20"
+  }, {
+    "Id" : "3541475",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0731840011693,
+        "Longitude" : 14.4145113034401
+      }, {
+        "Latitude" : 50.0732001784235,
+        "Longitude" : 14.4145854507019
+      }, {
+        "Latitude" : 50.073222682315,
+        "Longitude" : 14.4151089697938
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541476",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0740660864651,
+        "Longitude" : 14.4140586196382
+      }, {
+        "Latitude" : 50.0733417089036,
+        "Longitude" : 14.4141014523741
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541992",
+    "Name" : "Palackého most",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0730792704912,
+        "Longitude" : 14.4137462780622
+      }, {
+        "Latitude" : 50.0730487588001,
+        "Longitude" : 14.4136435291638
+      }, {
+        "Latitude" : 50.0729903781621,
+        "Longitude" : 14.4130193598614
+      }, {
+        "Latitude" : 50.0729342132955,
+        "Longitude" : 14.4124374791478
+      }, {
+        "Latitude" : 50.0727458447417,
+        "Longitude" : 14.4104855190056
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541994",
+    "Name" : "Rašínovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733356781068,
+        "Longitude" : 14.4138101932741
+      }, {
+        "Latitude" : 50.0731548495352,
+        "Longitude" : 14.4138227545597
+      }, {
+        "Latitude" : 50.0731105642902,
+        "Longitude" : 14.4138060976964
+      }, {
+        "Latitude" : 50.0730792704912,
+        "Longitude" : 14.4137462780622
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541995",
+    "Name" : "Palackého most",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0730792704912,
+        "Longitude" : 14.4137462780622
+      }, {
+        "Latitude" : 50.072924954786,
+        "Longitude" : 14.4137649318525
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3541996",
+    "Name" : "Palackého most",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0726700645631,
+        "Longitude" : 14.4108970810352
+      }, {
+        "Latitude" : 50.0729346478349,
+        "Longitude" : 14.4135567678868
+      }, {
+        "Latitude" : 50.0729376832971,
+        "Longitude" : 14.4136993974079
+      }, {
+        "Latitude" : 50.072930448997,
+        "Longitude" : 14.4137366434898
+      }, {
+        "Latitude" : 50.072924954786,
+        "Longitude" : 14.4137649318525
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541998",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733417089036,
+        "Longitude" : 14.4141014523741
+      }, {
+        "Latitude" : 50.0733454806512,
+        "Longitude" : 14.4141824947115
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3541999",
+    "Name" : "Palackého náměstí",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0733454806512,
+        "Longitude" : 14.4141824947115
+      }, {
+        "Latitude" : 50.0731207278786,
+        "Longitude" : 14.4141875401429
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3542116",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727348049682,
+        "Longitude" : 14.4101980629419
+      }, {
+        "Latitude" : 50.0742112757622,
+        "Longitude" : 14.4094405245731
+      }, {
+        "Latitude" : 50.0744122662267,
+        "Longitude" : 14.4091509339896
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542117",
+    "Name" : "Janáčkovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727348049682,
+        "Longitude" : 14.4101980629419
+      }, {
+        "Latitude" : 50.0727171310161,
+        "Longitude" : 14.4099839437241
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3542118",
+    "Name" : "Janáčkovo nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0727171310161,
+        "Longitude" : 14.4099839437241
+      }, {
+        "Latitude" : 50.0732755769781,
+        "Longitude" : 14.4096868075357
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3542139",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0721772919102,
+        "Longitude" : 14.4104009945014
+      }, {
+        "Latitude" : 50.0725614994943,
+        "Longitude" : 14.4103053222386
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "3543645",
+    "Name" : "Na bělidle",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0721772919102,
+        "Longitude" : 14.4104009945014
+      }, {
+        "Latitude" : 50.0720774843064,
+        "Longitude" : 14.4104140203867
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3543666",
+    "Name" : "Hořejší nábřeží",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0720774843064,
+        "Longitude" : 14.4104140203867
+      }, {
+        "Latitude" : 50.0719654026005,
+        "Longitude" : 14.4104499505339
+      } ]
+    },
+    "FormOfWay" : "Platform"
+  }, {
+    "Id" : "1001",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0725136927774,
+        "Longitude" : 14.4142429916677
+      }, {
+        "Latitude" : 50.0725102355248,
+        "Longitude" : 14.4140490435354
+      }, {
+        "Latitude" : 50.0725499013249,
+        "Longitude" : 14.4139854697213
+      }, {
+        "Latitude" : 50.072551745911,
+        "Longitude" : 14.4138905760713
+      } ]
+    },
+    "FormOfWay" : "Crossway"
+  }, {
+    "Id" : "3543724",
+    "Name" : " ",
+    "Shape" : {
+      "Points" : [ {
+        "Latitude" : 50.0732689255223,
+        "Longitude" : 14.4151045351465
+      }, {
+        "Latitude" : 50.0732828111434,
+        "Longitude" : 14.41539452462
+      }, {
+        "Latitude" : 50.0733061052434,
+        "Longitude" : 14.4155761017251
+      }, {
+        "Latitude" : 50.0733726828634,
+        "Longitude" : 14.4159480385742
+      }, {
+        "Latitude" : 50.0734569595359,
+        "Longitude" : 14.4164113361708
+      }, {
+        "Latitude" : 50.0735565446227,
+        "Longitude" : 14.4169254635369
+      }, {
+        "Latitude" : 50.0736219909112,
+        "Longitude" : 14.4172304833559
+      }, {
+        "Latitude" : 50.0736436211868,
+        "Longitude" : 14.4173216587162
+      }, {
+        "Latitude" : 50.0736600142457,
+        "Longitude" : 14.4173907547859
+      }, {
+        "Latitude" : 50.073695103327,
+        "Longitude" : 14.4176084889298
+      }, {
+        "Latitude" : 50.0737140205239,
+        "Longitude" : 14.417943985264
+      }, {
+        "Latitude" : 50.0737271636653,
+        "Longitude" : 14.4182956396098
+      }, {
+        "Latitude" : 50.0737322384505,
+        "Longitude" : 14.4183906666036
+      }, {
+        "Latitude" : 50.0737344536341,
+        "Longitude" : 14.4184321356956
+      }, {
+        "Latitude" : 50.0737532876645,
+        "Longitude" : 14.4185363139885
+      }, {
+        "Latitude" : 50.0737848918636,
+        "Longitude" : 14.4186567765943
+      } ]
+    },
+    "FormOfWay" : "SquareLink"
+  } ],
+  "Pois" : [ {
+    "Id" : "60129622",
+    "Shape" : {
+      "Latitude" : 50.0727178843116,
+      "Longitude" : 14.4098070485364
+    },
+    "Name" : "Stomatologická ordinace",
+    "Street" : "Lidická",
+    "LandRegistryNumber" : "843/2",
+    "City" : "Praha",
+    "Fcc" : 9374
+  }, {
+    "Id" : "60065140",
+    "Shape" : {
+      "Latitude" : 50.0731122198074,
+      "Longitude" : 14.4148699208018
+    },
+    "Name" : "Karlovo náměstí",
+    "Street" : "Palackého náměstí",
+    "LandRegistryNumber" : " ",
+    "City" : "Praha",
+    "Fcc" : 7380
+  }, {
+    "Id" : "60049235",
+    "Shape" : {
+      "Latitude" : 50.0730381266164,
+      "Longitude" : 14.4153652451984
+    },
+    "Name" : "Hlavní hygienik ČR",
+    "Street" : "Palackého náměstí",
+    "LandRegistryNumber" : "375/4",
+    "City" : "Praha",
+    "Fcc" : 7367
+  }, {
+    "Id" : "60080043",
+    "Shape" : {
+      "Latitude" : 50.0730381266164,
+      "Longitude" : 14.4153652451984
+    },
+    "Name" : "Ústav zdravotnických informací a statistiky České republiky",
+    "Street" : "Palackého náměstí",
+    "LandRegistryNumber" : "375/4",
+    "City" : "Praha",
+    "Fcc" : 7367
+  }, {
+    "Id" : "60080044",
+    "Shape" : {
+      "Latitude" : 50.0730381266164,
+      "Longitude" : 14.4153652451984
+    },
+    "Name" : "ÚZIS-Regionální pracoviště Praha",
+    "Street" : "Palackého náměstí",
+    "LandRegistryNumber" : "375/4",
+    "City" : "Praha",
+    "Fcc" : 7367
+  }, {
+    "Id" : "60049940",
+    "Shape" : {
+      "Latitude" : 50.0719065148622,
+      "Longitude" : 14.4090499716938
+    },
+    "Name" : "Policie ČR - Místní oddělení Smíchov",
+    "Street" : "Na bělidle",
+    "LandRegistryNumber" : "272/5",
+    "City" : "Praha",
+    "Fcc" : 7322
+  }, {
+    "Id" : "60083111",
+    "Shape" : {
+      "Latitude" : 50.0732728698827,
+      "Longitude" : 14.4147368339731
+    },
+    "Name" : "Česká spořitelna Metro B - Karlovo náměstí 1",
+    "Street" : "Palackého náměstí",
+    "LandRegistryNumber" : " ",
+    "City" : "Praha",
+    "Fcc" : 7397
+  }, {
+    "Id" : "60048852",
+    "Shape" : {
+      "Latitude" : 50.0733916081449,
+      "Longitude" : 14.4152619957003
+    },
+    "Name" : "ČSOB Na Moráni",
+    "Street" : "Na Moráni",
+    "LandRegistryNumber" : "360/3",
+    "City" : "Praha",
+    "Fcc" : 7328
+  }, {
+    "Id" : "60061456",
+    "Shape" : {
+      "Latitude" : 50.073018442079,
+      "Longitude" : 14.4148633076712
+    },
+    "Name" : "František Palacký",
+    "Street" : "Palackého náměstí",
+    "LandRegistryNumber" : " ",
+    "City" : "Praha",
+    "Fcc" : 7376
+  }, {
+    "Id" : "60199838",
+    "Shape" : {
+      "Latitude" : 50.0730381238736,
+      "Longitude" : 14.4153653064243
+    },
+    "Name" : "VÚPSV, v.v.i. - oddělení knihovnicko-informačních služeb",
+    "Street" : "Palackého náměstí",
+    "LandRegistryNumber" : "375/4",
+    "City" : "Praha",
+    "Fcc" : 7346
+  }, {
+    "Id" : "60202170",
+    "Shape" : {
+      "Latitude" : 50.0735036122826,
+      "Longitude" : 14.414830737192
+    },
+    "Name" : "Euronet Gorazdova",
+    "Street" : "Gorazdova",
+    "LandRegistryNumber" : "357/1",
+    "City" : "Praha",
+    "Fcc" : 7397
+  }, {
+    "Id" : "60800164",
+    "Shape" : {
+      "Latitude" : 50.073275101272,
+      "Longitude" : 14.4143230068374
+    },
+    "Name" : "Palackého náměstí",
+    "Street" : "Palackého náměstí",
+    "LandRegistryNumber" : " ",
+    "City" : "Praha",
+    "Fcc" : 9385
+  }, {
+    "Id" : "60800165",
+    "Shape" : {
+      "Latitude" : 50.0719441017414,
+      "Longitude" : 14.4141010061532
+    },
+    "Name" : "Palackého náměstí (nábřeží)",
+    "Street" : "Rašínovo nábřeží",
+    "LandRegistryNumber" : " ",
+    "City" : "Praha",
+    "Fcc" : 9385
+  }, {
+    "Id" : "60800180",
+    "Shape" : {
+      "Latitude" : 50.072506101292,
+      "Longitude" : 14.4141080071726
+    },
+    "Name" : "Palackého náměstí (nábřeží)",
+    "Street" : "Rašínovo nábřeží",
+    "LandRegistryNumber" : " ",
+    "City" : "Praha",
+    "Fcc" : 9385
+  }, {
+    "Id" : "60800125",
+    "Shape" : {
+      "Latitude" : 50.0732301012846,
+      "Longitude" : 14.4152460069029
+    },
+    "Name" : "Palackého náměstí",
+    "Street" : "Palackého náměstí",
+    "LandRegistryNumber" : " ",
+    "City" : "Praha",
+    "Fcc" : 9385
+  }, {
+    "Id" : "71663468",
+    "Shape" : {
+      "Latitude" : 50.0727358,
+      "Longitude" : 14.409871
+    },
+    "Name" : "Lavande",
+    "Street" : "Lidická",
+    "Fcc" : 7315
+  }, {
+    "Id" : "316727466",
+    "Shape" : {
+      "Latitude" : 50.0734104,
+      "Longitude" : 14.414145
+    },
+    "Name" : "Pizzeria Fresco Vento",
+    "Street" : "Rašínovo nábřeží",
+    "Fcc" : 7315
+  }, {
+    "Id" : "1165949100",
+    "Shape" : {
+      "Latitude" : 50.0713148,
+      "Longitude" : 14.4144695
+    },
+    "Name" : "U Kalendů",
+    "Street" : "Rašínovo nábřeží",
+    "Fcc" : 7315
+  }, {
+    "Id" : "2249429526",
+    "Shape" : {
+      "Latitude" : 50.0740531,
+      "Longitude" : 14.4145396
+    },
+    "Name" : "Čajovna Daruma",
+    "Street" : "Trojanova",
+    "Fcc" : 7315
+  }, {
+    "Id" : "2401706631",
+    "Shape" : {
+      "Latitude" : 50.0719066,
+      "Longitude" : 14.4139292
+    },
+    "Name" : "Party Grill Boat",
+    "Fcc" : 7315
+  }, {
+    "Id" : "3625372993",
+    "Shape" : {
+      "Latitude" : 50.0726731,
+      "Longitude" : 14.4135953
+    },
+    "Name" : "Kristian Marco (na lodi)",
+    "Fcc" : 7315
+  }, {
+    "Id" : "3722035941",
+    "Shape" : {
+      "Latitude" : 50.0726325,
+      "Longitude" : 14.4085675
+    },
+    "Name" : "Brother's bar & cafe",
+    "Street" : "Lidická",
+    "Fcc" : 7315
+  }, {
+    "Id" : "3722035944",
+    "Shape" : {
+      "Latitude" : 50.0723795,
+      "Longitude" : 14.408664
+    },
+    "Name" : "Man Yi Ge",
+    "Street" : "Lidická",
+    "Fcc" : 7315
+  }, {
+    "Id" : "4460734298",
+    "Shape" : {
+      "Latitude" : 50.0734166,
+      "Longitude" : 14.4148858
+    },
+    "Name" : "Black Dog Cantina",
+    "Street" : "Gorazdova",
+    "Fcc" : 7315
+  }, {
+    "Id" : "355003076",
+    "Shape" : {
+      "Latitude" : 50.0725072,
+      "Longitude" : 14.4096002
+    },
+    "Name" : "A-Z sport",
+    "Street" : "Lidická",
+    "Fcc" : 9361
+  }, {
+    "Id" : "355003087",
+    "Shape" : {
+      "Latitude" : 50.0735763,
+      "Longitude" : 14.4141336
+    },
+    "Name" : "panOptikum",
+    "Street" : "Rašínovo nábřeží",
+    "Fcc" : 9361
+  }, {
+    "Id" : "355003095",
+    "Shape" : {
+      "Latitude" : 50.0740492,
+      "Longitude" : 14.4144614
+    },
+    "Name" : "Salon diva",
+    "Street" : "Trojanova",
+    "Fcc" : 9361
+  }, {
+    "Id" : "355003102",
+    "Shape" : {
+      "Latitude" : 50.0740593,
+      "Longitude" : 14.4146992
+    },
+    "Name" : "Cestovní kancelář Asia",
+    "Street" : "Trojanova",
+    "Fcc" : 9361
+  }, {
+    "Id" : "355003103",
+    "Shape" : {
+      "Latitude" : 50.0740653,
+      "Longitude" : 14.4148642
+    },
+    "Name" : "Cyklo moto oděvy",
+    "Street" : "Trojanova",
+    "Fcc" : 9361
+  }, {
+    "Id" : "502027298",
+    "Shape" : {
+      "Latitude" : 50.0725344,
+      "Longitude" : 14.4098401
+    },
+    "Name" : "901 Bikes",
+    "Street" : "Lidická",
+    "Fcc" : 9361
+  }, {
+    "Id" : "921243081",
+    "Shape" : {
+      "Latitude" : 50.0726991,
+      "Longitude" : 14.4138425
+    },
+    "Name" : "Bajkazyl",
+    "Fcc" : 9361
+  }, {
+    "Id" : "1271576304",
+    "Shape" : {
+      "Latitude" : 50.0733846,
+      "Longitude" : 14.415175
+    },
+    "Name" : "Ječmínek",
+    "Street" : "Gorazdova",
+    "Fcc" : 9361
+  }, {
+    "Id" : "3019747771",
+    "Shape" : {
+      "Latitude" : 50.0734079,
+      "Longitude" : 14.4145674
+    },
+    "Name" : "El Niño",
+    "Street" : "Palackého náměstí",
+    "Fcc" : 9361
+  }, {
+    "Id" : "3019747772",
+    "Shape" : {
+      "Latitude" : 50.0734044,
+      "Longitude" : 14.4144521
+    },
+    "Name" : "La Chica",
+    "Street" : "Palackého náměstí",
+    "Fcc" : 9361
+  }, {
+    "Id" : "4771230922",
+    "Shape" : {
+      "Latitude" : 50.0720573,
+      "Longitude" : 14.409031
+    },
+    "Name" : "American Barber in Prague",
+    "Street" : "Na bělidle",
+    "Fcc" : 9361
+  }, {
+    "Id" : "5502381721",
+    "Shape" : {
+      "Latitude" : 50.0725322,
+      "Longitude" : 14.4099696
+    },
+    "Name" : "",
+    "Street" : "Lidická",
+    "Fcc" : 9361
+  }, {
+    "Id" : "5520559442",
+    "Shape" : {
+      "Latitude" : 50.073826,
+      "Longitude" : 14.4149988
+    },
+    "Name" : "Korea Mart",
+    "Street" : "Gorazdova",
+    "Fcc" : 9361
+  } ],
+  "PoiEntryPoints" : [ {
+    "Id" : "89",
+    "PoiId" : "60129622",
+    "DistanceFromFirstPoint" : 12,
+    "RoadId" : "3542119",
+    "DistanceFromPoi" : 2,
+    "Shape" : {
+      "Latitude" : 50.0726997380378,
+      "Longitude" : 14.4098114659313
+    }
+  }, {
+    "Id" : "443",
+    "PoiId" : "60049225",
+    "DistanceFromFirstPoint" : 36,
+    "RoadId" : "2567374",
+    "DistanceFromPoi" : 29,
+    "Shape" : {
+      "Latitude" : 50.0728564563764,
+      "Longitude" : 14.4151440823733
+    }
+  }, {
+    "Id" : "446",
+    "PoiId" : "60049228",
+    "DistanceFromFirstPoint" : 36,
+    "RoadId" : "2567374",
+    "DistanceFromPoi" : 29,
+    "Shape" : {
+      "Latitude" : 50.0728564563764,
+      "Longitude" : 14.4151440823733
+    }
+  }, {
+    "Id" : "447",
+    "PoiId" : "60049235",
+    "DistanceFromFirstPoint" : 17,
+    "RoadId" : "2567374",
+    "DistanceFromPoi" : 17,
+    "Shape" : {
+      "Latitude" : 50.073028688888,
+      "Longitude" : 14.4151275692757
+    }
+  }, {
+    "Id" : "451",
+    "PoiId" : "60080043",
+    "DistanceFromFirstPoint" : 17,
+    "RoadId" : "2567374",
+    "DistanceFromPoi" : 17,
+    "Shape" : {
+      "Latitude" : 50.073028688888,
+      "Longitude" : 14.4151275692757
+    }
+  }, {
+    "Id" : "452",
+    "PoiId" : "60080044",
+    "DistanceFromFirstPoint" : 17,
+    "RoadId" : "2567374",
+    "DistanceFromPoi" : 17,
+    "Shape" : {
+      "Latitude" : 50.073028688888,
+      "Longitude" : 14.4151275692757
+    }
+  }, {
+    "Id" : "460",
+    "PoiId" : "60049940",
+    "DistanceFromFirstPoint" : 30,
+    "RoadId" : "3542138",
+    "DistanceFromPoi" : 15,
+    "Shape" : {
+      "Latitude" : 50.0720363134857,
+      "Longitude" : 14.4090180284554
+    }
+  }, {
+    "Id" : "940",
+    "PoiId" : "60083111",
+    "DistanceFromFirstPoint" : 17,
+    "RoadId" : "3541475",
+    "DistanceFromPoi" : 7,
+    "Shape" : {
+      "Latitude" : 50.0732069803662,
+      "Longitude" : 14.4147436715485
+    }
+  }, {
+    "Id" : "2049",
+    "PoiId" : "60164966",
+    "DistanceFromFirstPoint" : 31,
+    "RoadId" : "3541312",
+    "DistanceFromPoi" : 11,
+    "Shape" : {
+      "Latitude" : 50.0742107150233,
+      "Longitude" : 14.414481812468
+    }
+  }, {
+    "Id" : "2143",
+    "PoiId" : "60164877",
+    "DistanceFromFirstPoint" : 0,
+    "RoadId" : "1658237",
+    "DistanceFromPoi" : 9,
+    "Shape" : {
+      "Latitude" : 50.0716235323732,
+      "Longitude" : 14.4144850441202
+    }
+  }, {
+    "Id" : "2208",
+    "PoiId" : "60056222",
+    "DistanceFromFirstPoint" : 12,
+    "RoadId" : "3542119",
+    "DistanceFromPoi" : 2,
+    "Shape" : {
+      "Latitude" : 50.0726997359518,
+      "Longitude" : 14.4098114424042
+    }
+  }, {
+    "Id" : "2292",
+    "PoiId" : "60051221",
+    "DistanceFromFirstPoint" : 172,
+    "RoadId" : "3541993",
+    "DistanceFromPoi" : 11,
+    "Shape" : {
+      "Latitude" : 50.0740571639567,
+      "Longitude" : 14.4137694556649
+    }
+  }, {
+    "Id" : "2367",
+    "PoiId" : "60051198",
+    "DistanceFromFirstPoint" : 45,
+    "RoadId" : "282529",
+    "DistanceFromPoi" : 24,
+    "Shape" : {
+      "Latitude" : 50.0712030907616,
+      "Longitude" : 14.4142996601127
+    }
+  }, {
+    "Id" : "2598",
+    "PoiId" : "60168742",
+    "DistanceFromFirstPoint" : 33,
+    "RoadId" : "3542118",
+    "DistanceFromPoi" : 9,
+    "Shape" : {
+      "Latitude" : 50.072996077634,
+      "Longitude" : 14.4098355238085
+    }
+  }, {
+    "Id" : "2711",
+    "PoiId" : "60184529",
+    "DistanceFromFirstPoint" : 38,
+    "RoadId" : "3541476",
+    "DistanceFromPoi" : 9,
+    "Shape" : {
+      "Latitude" : 50.0737225041486,
+      "Longitude" : 14.41407893674
+    }
+  }, {
+    "Id" : "2712",
+    "PoiId" : "60184855",
+    "DistanceFromFirstPoint" : 31,
+    "RoadId" : "3541372",
+    "DistanceFromPoi" : 9,
+    "Shape" : {
+      "Latitude" : 50.0740823779844,
+      "Longitude" : 14.4144865924369
+    }
+  }, {
+    "Id" : "2743",
+    "PoiId" : "60185393",
+    "DistanceFromFirstPoint" : 82,
+    "RoadId" : "3542119",
+    "DistanceFromPoi" : 8,
+    "Shape" : {
+      "Latitude" : 50.0726027232708,
+      "Longitude" : 14.4088494513579
+    }
+  }, {
+    "Id" : "3374",
+    "PoiId" : "60199838",
+    "DistanceFromFirstPoint" : 17,
+    "RoadId" : "2567374",
+    "DistanceFromPoi" : 17,
+    "Shape" : {
+      "Latitude" : 50.0730286834211,
+      "Longitude" : 14.4151275690351
+    }
+  }, {
+    "Id" : "3435",
+    "PoiId" : "60202170",
+    "DistanceFromFirstPoint" : 66,
+    "RoadId" : "3541479",
+    "DistanceFromPoi" : 8,
+    "Shape" : {
+      "Latitude" : 50.0735053111269,
+      "Longitude" : 14.4149365708067
+    }
+  }, {
+    "Id" : "3543",
+    "PoiId" : "60800164",
+    "DistanceFromFirstPoint" : 9,
+    "RoadId" : "3541477",
+    "DistanceFromPoi" : 9,
+    "Shape" : {
+      "Latitude" : 50.0733516199931,
+      "Longitude" : 14.4143144105427
+    }
+  }, {
+    "Id" : "3586",
+    "PoiId" : "60800180",
+    "DistanceFromFirstPoint" : 10,
+    "RoadId" : "2567372",
+    "DistanceFromPoi" : 1,
+    "Shape" : {
+      "Latitude" : 50.0725112829942,
+      "Longitude" : 14.4141077840748
+    }
+  }, {
+    "Id" : "3587",
+    "PoiId" : "60800125",
+    "DistanceFromFirstPoint" : 10,
+    "RoadId" : "3541486",
+    "DistanceFromPoi" : 0,
+    "Shape" : {
+      "Latitude" : 50.0732290732319,
+      "Longitude" : 14.4152461224926
+    }
+  }, {
+    "Id" : "3988",
+    "PoiId" : "60065140",
+    "DistanceFromFirstPoint" : 25,
+    "RoadId" : "3541475",
+    "DistanceFromPoi" : 11,
+    "Shape" : {
+      "Latitude" : 50.0732119618553,
+      "Longitude" : 14.4148595692084
+    }
+  }, {
+    "Id" : "4617",
+    "PoiId" : "60048852",
+    "DistanceFromFirstPoint" : 0,
+    "RoadId" : "3541488",
+    "DistanceFromPoi" : 11,
+    "Shape" : {
+      "Latitude" : 50.0733939542836,
+      "Longitude" : 14.4154198955123
+    }
+  }, {
+    "Id" : "4885",
+    "PoiId" : "60061456",
+    "DistanceFromFirstPoint" : 17,
+    "RoadId" : "2567374",
+    "DistanceFromPoi" : 19,
+    "Shape" : {
+      "Latitude" : 50.0730289355191,
+      "Longitude" : 14.4151275461244
+    }
+  }, {
+    "Id" : "5403",
+    "PoiId" : "60051208",
+    "DistanceFromFirstPoint" : 75,
+    "RoadId" : "3541479",
+    "DistanceFromPoi" : 13,
+    "Shape" : {
+      "Latitude" : 50.0734231474792,
+      "Longitude" : 14.4149397528702
+    }
+  }, {
+    "Id" : "5545",
+    "PoiId" : "60165029",
+    "DistanceFromFirstPoint" : 82,
+    "RoadId" : "1657931",
+    "DistanceFromPoi" : 13,
+    "Shape" : {
+      "Latitude" : 50.0717315496903,
+      "Longitude" : 14.4104977661829
+    }
+  }, {
+    "Id" : "5573",
+    "PoiId" : "60056140",
+    "DistanceFromFirstPoint" : 4,
+    "RoadId" : "3542118",
+    "DistanceFromPoi" : 12,
+    "Shape" : {
+      "Latitude" : 50.0727527047826,
+      "Longitude" : 14.4099650162809
+    }
+  }, {
+    "Id" : "5575",
+    "PoiId" : "60056217",
+    "DistanceFromFirstPoint" : 67,
+    "RoadId" : "282234",
+    "DistanceFromPoi" : 13,
+    "Shape" : {
+      "Latitude" : 50.0713563643935,
+      "Longitude" : 14.4095211157029
+    }
+  }, {
+    "Id" : "6723",
+    "PoiId" : "60800165",
+    "DistanceFromFirstPoint" : 62,
+    "RoadId" : "3541468",
+    "DistanceFromPoi" : 17,
+    "Shape" : {
+      "Latitude" : 50.0719602896759,
+      "Longitude" : 14.4143352979484
+    }
+  }, {
+    "Id" : "7054",
+    "PoiId" : "60052153",
+    "DistanceFromFirstPoint" : 8,
+    "RoadId" : "1657930",
+    "DistanceFromPoi" : 54,
+    "Shape" : {
+      "Latitude" : 50.0708867039991,
+      "Longitude" : 14.4104575167949
+    }
+  }, {
+    "Id" : "7057",
+    "PoiId" : "60056220",
+    "DistanceFromFirstPoint" : 8,
+    "RoadId" : "1657930",
+    "DistanceFromPoi" : 54,
+    "Shape" : {
+      "Latitude" : 50.0708867039991,
+      "Longitude" : 14.4104575167949
+    }
+  } ],
+  "MapVersion" : "2018-02-15"
+}
