@@ -2,11 +2,6 @@ var $$ = Dom7;
 var serverAddress = "http://147.32.81.90:8090";
 var imageServer = "http://147.32.81.90:8080"
 
-//var serverAddress = "http://localhost:8090";
-
-//var serverAddress = "https://147.32.81.90:8444";
-//var imageServer = "https://147.32.81.90:8443";
-//localStorage.clear();
 var P1 = {username:"liska", pswd:"0z3"};
 var P2 = {username:"jelen", pswd:"3b1"};
 var P3 = {username:"panda", pswd:"u5a"};
@@ -24,38 +19,37 @@ participants.push(P5);
 participants.push(P6);
 participants.push(P7);
 
-//var markers = new L.MarkerClusterGroup();
 var cornerMarkers = new L.MarkerClusterGroup();
 var crosswalkMarkers = new L.MarkerClusterGroup();
 var sidewalkMarkers = new L.MarkerClusterGroup();
 
 var app = new Framework7({
-root: '#app', // App root element
-id: 'io.framework7.myapp', // App bundle ID
-name: 'CrowdsourcerApp', // App name
-theme: 'auto', // Automatic theme detection
-// App root data
+root: '#app',
+id: 'io.framework7.myapp',
+name: 'CrowdsourcerApp',
+theme: 'auto',
+
 data: function () {
   return {};
 },
 sheet: {
   backdrop: false,
 },
-// App root methods
+
 methods: {
   helloWorld: function () {
     app.dialog.alert('Hello World!');
   },
 },
-// App routes
+
 routes: routes,
 
-// Input settings
+
 input: {
   scrollIntoViewOnFocus: Framework7.device.cordova && !Framework7.device.electron,
   scrollIntoViewCentered: Framework7.device.cordova && !Framework7.device.electron,
 },
-// Cordova Statusbar settings
+
 statusbar: {
   overlay: Framework7.device.cordova && Framework7.device.ios || 'auto',
   iosOverlaysWebView: true,
@@ -65,7 +59,6 @@ on: {
   init: function () {
       var f7 = this;
       if (f7.device.cordova) {
-      // Init cordova APIs (see cordova-app.js)
       cordovaApp.init(f7);
       }
 
@@ -110,50 +103,50 @@ let crosswalksDATA;
 
 var taskIcon = L.icon({
 iconUrl: './img/task_marker.png',
-iconSize:     [32, 36], // size of the icon 
-iconAnchor:   [16, 36], // point of the icon which will correspond to marker's location
+iconSize:     [32, 36],
+iconAnchor:   [16, 36],
 popupAnchor: [1, -34]
 });
 
 var taskIconClicked = L.icon({
 iconUrl: './img/task_marker_clicked.png',
-iconSize:     [64, 74], // size of the icon 
-iconAnchor:   [32, 74], // point of the icon which will correspond to marker's location
+iconSize:     [64, 74], 
+iconAnchor:   [32, 74],
 popupAnchor: [1, -34]
 });
 
 var obstacleIcon = L.icon({
 iconUrl: './img/obstacle_pin.png',
-iconSize:     [43, 68], // size of the icon 
-iconAnchor:   [21.5, 68], // point of the icon which will correspond to marker's location
+iconSize:     [43, 68],
+iconAnchor:   [21.5, 68],
 popupAnchor: [1, -34]
 });
 
 var cornerIcon = L.icon({
 iconUrl: './img/pin_corner.png',
-iconSize:     [45, 55], // size of the icon 
-iconAnchor:   [22.5, 55], // point of the icon which will correspond to marker's location
+iconSize:     [45, 55],
+iconAnchor:   [22.5, 55],
 popupAnchor: [1, -34]
 });
 
 var crosswalkIcon = L.icon({
 iconUrl: './img/pin_crosswalk.png',
-iconSize:     [45, 55], // size of the icon 
-iconAnchor:   [22.5, 55], // point of the icon which will correspond to marker's location
+iconSize:     [45, 55],
+iconAnchor:   [22.5, 55],
 popupAnchor: [1, -34]
 });
 
 var sidewalkIcon = L.icon({
 iconUrl: './img/pin_sidewalk.png',
-iconSize:     [45, 55], // size of the icon 
-iconAnchor:   [22.5, 55], // point of the icon which will correspond to marker's location
+iconSize:     [45, 55],
+iconAnchor:   [22.5, 55],
 popupAnchor: [1, -34]
 });
 
 var platformIcon = L.icon({
 iconUrl: './img/pin_platform.png',
-iconSize:     [45, 55], // size of the icon 
-iconAnchor:   [22.5, 55], // point of the icon which will correspond to marker's location
+iconSize:     [45, 55],
+iconAnchor:   [22.5, 55],
 popupAnchor: [1, -34]
 });
 
@@ -176,9 +169,7 @@ function logUser() {
 
 function initMap() {
 
-//mymap = L.map('mapid').fitWorld();
 mymap = L.map('mapid').setView([50.076672,14.420254], 13);
-//mymap.invalidateSize();
 
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
   attribution: '',
@@ -208,7 +199,6 @@ fetch(serverAddress + "/api/participant/" + localStorage.username + "?mapped=fal
 });      
 
 }
-
 
 
 function locateUser() {
@@ -285,22 +275,6 @@ function auditPage(pageName){
 }
 
 
-
-
-// $$(document).on('page:init', '.page[data-name="obstacle-map-page"]', function () {
-//   //mymapObstacle = L.map('obstacle-mapid').fitWorld();
-//   mymapObstacle = L.map('obstacle-mapid').setView([50.076672,14.420254], 13);
-
-//   L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-//     attribution: '',
-//     id: 'mapbox.streets',
-//     accessToken: 'pk.eyJ1IjoicmlnYW5taWMiLCJhIjoiY2p4ZnVjejIyMTBoYzNvczg3Z3kxYmRzeSJ9.CnlRm-rx92Bi7UxUDVZ--A'
-//   }).addTo(mymapObstacle);
-
-//   mymapObstacle.locate({watch: true, setView: false, maxZoom: 16});
-//   mymapObstacle.on('locationfound', onLocationFound_watch);
-//   mymapObstacle.on('locationerror', onLocationError);
-// })
 var toast;
 function showObstacleMarker() {
   document.getElementById("obstacle-pin").style.visibility = "visible";
@@ -733,60 +707,6 @@ let gpsOptions = {maximumAge: 300000, timeout: 5000, enableHighAccuracy: true};
 
 navigator.geolocation.getCurrentPosition(gpsSuccess, gpsError, gpsOptions);
 
-// //MARKERS
-// var taskIcon = L.icon({
-//   iconUrl: './img/task_marker.png',
-// iconSize:     [32, 36], // size of the icon 
-// iconAnchor:   [16, 36], // point of the icon which will correspond to marker's location
-// popupAnchor: [1, -34]
-// });
-
-// var marker1 = L.marker([49.915254, 14.237567], {icon: taskIcon}).addTo(mymap);
-// marker1._icon.classList.add("sheet-open");
-// marker1._icon.href = "#";
-// marker1._icon.setAttribute("data-sheet", ".sheet-zebra-type");
-// var marker2 = L.marker([49.915968, 14.235996], {icon: taskIcon}).addTo(mymap);
-// marker2._icon.classList.add("sheet-open");
-// marker2._icon.href = "#";
-// marker2._icon.setAttribute("data-sheet", ".sheet-zebra-type");
-// //var marker3 = L.marker([49.915087, 14.236086], {icon: taskIcon}).addTo(mymap).on('click', onClick);
-// var marker3 = L.marker([49.915087, 14.236086], {icon: taskIcon}).addTo(mymap);
-// marker3._icon.classList.add("sheet-open");
-// marker3._icon.href = "#";
-// marker3._icon.setAttribute("data-sheet", ".sheet-zebra-type");
-
-// function onClick(e) {
-//   alert(this.getLatLng());
-// }
-
-//LEAFLET MAPS - END
-// var SidewalkSheetModalHandler = function (){
-
-//   var widthBtnSubmit = document.getElementById("sheet-sidewalk-width-submit");
-//   var widthBtnSkip = document.getElementById("sheet-sidewalk-width-skip");
-//   var widthBtnExit = document.getElementById("sheet-sidewalk-width-exit");
-
-
-
-//   if (leftBtnSubmit != null) {
-
-//   }
-
-//   if (leftBtnSkip != null) {
-//     leftBtnSkip.addEventListener('click', this._setVicinityLeft(), false);
-//   }
-
-//   if (leftBtnExit != null) {
-//     leftBtnExit.addEventListener('click', this._setVicinityLeft(), false);
-//   }
-
-// }
-
-// SidewalkSheetModalHandler.prototype._setVicinityLeft = function() {
-//   console.log(marker.options.backendID);
-//   console.log("tu som");
-
-// }
 
 //OBSTACLES
 function setObstacleLocation(){
@@ -1016,7 +936,7 @@ function setCornerShape() {
           });
 }
 
-//PLATFORMS - typ, tactile, type, quality
+//PLATFORMS - tactile, type, quality
 function setPlatformType() {
   mymap.eachLayer(function (layer) { 
     if (layer.options.backendID == localStorage.currentClickedPlatformId) {
@@ -1211,8 +1131,8 @@ function skipPlatformSurfaceQuality() {
 }
 
 function savePlatformDataToDB() {
-//TBD:dakovaci pop up za zber
-//ulozenie do DB
+
+//save to DB
 mymap.eachLayer(function (layer) { 
   if (layer.options.backendID == localStorage.currentClickedPlatformId) {
     var object = layer.options.object;
@@ -1260,7 +1180,6 @@ mymap.eachLayer(function (layer) {
 
 
     if (modals.length == 0){
-      //mymap.removeLayer(layer);
       crosswalkMarkers.removeLayer(layer);
     }
   } 
@@ -1268,7 +1187,7 @@ mymap.eachLayer(function (layer) {
 
 }
 
-//ZEBRA - type, number of lines, atributy, povrch a kvalita
+//ZEBRA - type, number of lines, atributtes, surface and its quality
 function setZebraType() {
   mymap.eachLayer(function (layer) { 
     if (layer.options.backendID == localStorage.currentClickedZebraId) {
@@ -1509,10 +1428,8 @@ function skipZebraSurfaceQuality() {
 }
 
 function saveZebraDataToDB() {
-//TODO
-//dakovaci pop up za zber
 
-//ulozenie do DB
+//save to DB
 mymap.eachLayer(function (layer) { 
   if (layer.options.backendID == localStorage.currentClickedZebraId) {
     var object = layer.options.object;
@@ -1554,7 +1471,6 @@ mymap.eachLayer(function (layer) {
 
 
     if (modals.length == 0){
-      //mymap.removeLayer(layer);
       crosswalkMarkers.removeLayer(layer);
     }
   } else if (layer.options.id == localStorage.currentZebraPolyline){
@@ -1995,8 +1911,6 @@ function exitCornerShape(){
 
 function saveSidewalkDataToDB(){
 
-//TBD: dakovaci pop up za zber - iba ak dačo zozbieral
-
 mymap.eachLayer(function (layer) { 
   if (layer.options.backendID == localStorage.currentClickedSidewalkId) {
     var object = layer.options.object;
@@ -2035,7 +1949,6 @@ mymap.eachLayer(function (layer) {
 
 
     if (modals.length == 0){
-      //mymap.removeLayer(layer);
       sidewalkMarkers.removeLayer(layer);
     }
   } else if (layer.options.id == localStorage.currentSidewalkPolyline){
@@ -2258,8 +2171,7 @@ function getCornerShapePhotos() {
     }
     cornerShapePhotosArray.shift();
   });  
-//cornerShapePhotosArray = ["corner1.jpg", "corner2.jpg", "corner3.jpg", "corner4.jpg", "corner5.jpg", "corner6.jpg", "corner7.jpg"];
-  
+
 }
 
 
@@ -3546,10 +3458,6 @@ function updateLeaderboard(){
   auditPage("Community Leaderboard");
 }
 
-// $$(document).on('page:init', '.page[data-name="chat"]', function () {
-//   updateGauges(); 
-// })
-
 //GAME-OBSTACLE - START
 var scoreG1 = 0;
 
@@ -3605,7 +3513,6 @@ $$(document).on('page:init', '.page[data-name="games"]', function () {
 ////COMMUNITY ACTIVITY
 
 $$(document).on('page:init', '.page[data-name="community"]', function () {
-  //mymapObstacle = L.map('obstacle-mapid').fitWorld();
   if(localStorage.communityCoverageLiked == "true"){
     document.getElementById("community-coverage-icon").innerHTML = "favorite";
     var likes = document.getElementById("community-coverage-likes").innerHTML;
@@ -3708,4 +3615,3 @@ function removeNotificationBadge2(){
     document.getElementById("notification-badge-group").remove();
     localStorage.setItem("eightNotificationClicked", "true");
 }
-
